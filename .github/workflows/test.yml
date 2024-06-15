@@ -33,7 +33,15 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Build & Deploy to GitHub Pages
-      uses: helaili/jekyll-action@2.0.1
+    - name: Build with Jekyll
+      run: |
+        docker run \
+          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          jekyll/jekyll:3.8 \
+          jekyll build
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
