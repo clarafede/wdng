@@ -1,0 +1,154 @@
+---
+title: Clara & Fede -- Nos casamos!
+description: 💍 Saturday 9th July 2022 🇫🇷 All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!
+image: "../assets/images/test3.jpg"
+feature_image: "../assets/images/test4.jpg"
+---
+
+<p style='text-align: center'>
+Nuestra boda es el <b>Sábado 23 de Noviembre del 2024</b>, en Crevillente (Alicante).
+</p>
+
+<div id="venue-info"></div>
+--------------------------
+# THE VENUE
+
+<p style='text-align: center'>The wedding venue is <a href='https://maps.app.goo.gl/ubD3wVfE6WosJkqH6'>La Bastide des Terres,</a> 70 Chemin de Chabrier, 26270 Mirmande, France.</p>
+
+
+|[![La Bastide des Terres](../assets/images/bastide-wide-lq.jpg){:class="img-responsive"}](../assets/images/bastide-wide-lq.jpg)|  
+|:--:|
+| *View of La Bastide des Terres* |
+
+<br>
+
+<p style='text-align: center'> <b>Mirmande</b> is in the South of France, roughly halfway between <b>Lyon</b> and <b>Marseille</b>. It is just off the Rhone river.</p>
+
+<p style='text-align: center'> The weather in July in this part of France is generally lovely, averaging 27°C during the day, and 14°C overnight. </p>
+
+|[![Location of Bastide](../assets/images/france-map-wide-lq.png){:class="img-responsive"}](../assets/images/france-map-wide-lq.png)|
+|:--:|
+| *Location in France*  |
+
+<p style='text-align: right'>
+{% include button.html text="<b>Travel »</b>" link="../travel"%}
+</p>
+
+<div id="travel"></div>
+--------------------------
+# TRAVEL
+
+### Ridesharing 🤝🏼
+Most people's final leg of transport will involve a car. We've set up a [ridesharing spreadsheet](https://docs.google.com/spreadsheets/d/1o02hOkrnIfmcy2Br_meUX2KkyGG3ZbRqcB4DAKcWdD4/edit#gid=0), where you can see who is going where and when. If you are looking for, or offering shared transport, add your details / contact people directly.
+
+## Travel Options
+`
+*There are lots of ways to get here, but we think many people will consider these options.*
+
+### By Plane ✈️
+
+There are two major airports nearby, that have many direct flights per day from London, Paris and other nearby European destinations. Both have lots of car rental options (recommended):
+- [**Lyon-Saint Exupéry Airport**](https://www.skyscanner.net/transport/flights/lond/lys/220708/220710/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544221&inboundaltsenabled=false&infants=0&originentityid=27544008&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1)
+    - 1hr 40 flight from London
+    - 1hr 25 drive to wedding venue
+- [**Marseille Provence Airport**](https://www.skyscanner.net/transport/flights/lond/mrs/220708/220710/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=32030366&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1)
+    - 1hr 55 flight from London
+    - 1hr 30 drive to wedding venue
+
+
+### By Train 🚄
+
+You can get closer to the venue by train, but it may involve more travel time for UK guests. For non-European residents, this may be preferable to changing to another plane in Paris.
+
+_Please note, train stations are NOT walking distance from venue, and there is limited public transport._
+
+- **High Speed Train to Gare Valence TGV**
+    - Possible good option for those flying into France from further afield (eg North America)
+    - 2hr 52 train from Paris Charles de Gaulle Airport
+    - 2hr 15 train from Paris Gare de Lyon
+    - 30 min drive to venue
+        - There seems to be a [local taxi company](https://goo.gl/maps/kYnRsqoHtsyBN99PA). Taxis c. €100 to venue each way.
+        - There are many car rental agencies at the destination train station (Hertz, Enterprise, Alamo etc)
+- **Eurostar to Montelimar Gare.**
+    - 6hr 43 train from London St Pancras
+    - 20 min drive to wedding venue.
+        - There are multiple taxi companies in Montelimar. Taxis c. €60-80 to venue each way.
+            - [Taxi-at2c](https://g.page/taxi-at2c-christian-chaneac?share)
+            - [Taxi Deschamps](https://goo.gl/maps/eVLpYvtpe7EF6irv8)
+            - [Alex Taxi](https://www.google.com/maps/place/Alex+Taxi/@44.5540842,4.6744026,15z/data=!4m6!3m5!1s0x12b5144f9305631b:0x1702c0e6a4d2d7af!8m2!3d44.5540236!4d4.6799899!15sCgx0YXhpIHNlcnZpY2WSAQx0YXhpX3NlcnZpY2U)
+        - There are also car rental agencies (Avis, Thrifty)
+
+### By Car 🚗
+
+We’ve googled this so you don’t have to. It’s a 10-12 hr drive from London 😓
+
+<p style='text-align: right'>
+{% include button.html text="<b>Agenda »</b>" link="../agenda"%}
+</p>
+
+<div id="agenda"></div>
+--------------------------
+# AGENDA
+
+We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We have events each day, and they are all at the same venue. You are welcome to come to as much or as little as you like.
+
+This is the rough plan:
+
+- **Friday**
+    - 6pm - 8pm: Buffet dinner for those arriving the day before
+    - Pool open - if you want to take a dip bring along your swimmers
+- **Saturday - Main Event**     
+  *Dress: "Riviera Chic" (See [FAQs](../faq/))*
+    - Before 1:30pm: Time for you to explore the local area
+    - 1:30pm - 2pm: Guests arrive at the venue
+    - 2pm - 3pm: Ceremony
+    - 3pm - 5pm: Canapes 
+    - 5pm - 7pm: Drinks, Lawn Games
+    - 7pm - 10pm: Dinner, Speeches
+    - 10pm - Late: Music & Dancing
+    
+- **Sunday**
+    - 10am - 12pm: Buffet Brunch 
+    - 12pm - 6pm: Relaxing by the pool & in the grounds
+    - Guests can stay until 6pm, when we have to vacate
+
+<p style='text-align: right'>
+{% include button.html text="<b>Accommodation »</b>" link="../accommodation"%}
+</p>
+
+<div id="accomodation"></div>
+--------------------------
+# ACOMMODATION
+
+There are lots of good accommodation options nearby, some walkable from the venue, and many within a 20-25 min drive radius between nearby Montélimar and Valence. 
+
+|[![15 and 30 min drivetimes](../assets/images/15-and-30-min-drivetimes.png){: width="250" }](../assets/images/15-and-30-min-drivetimes.png)|
+|:---:|
+|*15 and 30 min drivetimes from the venue*|
+
+
+However, don't hang about too long on booking - it's peak summer season in France!
+
+### Selected Options 🌇
+
+-  ~~[**Hotel les Oliviers**](https://hotel-les-oliviers.eu/)~~ -  <span style="color:red;">Fully Booked </span>
+-   ~~[**Hôtel restaurant La Capitelle**](http://www.lacapitelle.com/en/)~~ - <span style="color:red;">Fully Booked </span>
+
+-  [**Hotel IBIS Montélimar North**](https://all.accor.com/hotel/0623/index.en.shtml?dateIn=2022-07-08&nights=2&compositions=2&stayplus=false#origin=accor)
+    - 6 min drive from venue (1hr walk)
+    - Budget friendly option
+- [**La Treille Muscate**](https://www.hotelrestaurant-latreillemuscate.com/)
+    - 6 min drive from venue (40 min walk)
+    - Small boutique hotel & restaurant in nearby town
+- [**Camping La Poche**](https://www.camping-lapoche.eu/en/)
+    - 5 min drive from venue (40 min walk)
+    - Pretty campsite with amenities. 
+    - Camping sites available, mobile home rental available by the week (€500 for up to 6 people)
+- **[Booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQ_YAQPoAQGIAgGoAgO4AoS-tZIGwAIB0gIkNzZjMjM1Y2YtM2FjYS00ZTcwLWE2NTAtMTA0NGMzNTEwNTRk2AIE4AIB&sid=84dbf8d58c741ae2b7e3d8e255230e9f&aid=304142&ss=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&ssne=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&ssne_untouched=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&lang=en-gb&latitude=44.7541476&longitude=4.8175266&checkin=2022-07-08&checkout=2022-07-10&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure&nflt=oos%3D1&order=distance_from_search) and [Airbnb](https://www.airbnb.com/s/Saulce~sur~Rhône/homes?place_id=ChIJO6q-k4RGtRIRcv4ZRcSqyuo&refinement_paths[]=%2Fhomes&checkin=2022-07-08&checkout=2022-07-10&adults=2&search_type=user_map_move&tab_id=home_tab&query=Saulce-sur-Rhône&flexible_trip_lengths[]=weekend_trip&date_picker_type=calendar&ne_lat=44.845739525943884&ne_lng=5.098128874917336&sw_lat=44.51843933386909&sw_lng=4.438399837483473&zoom=10&search_by_map=true)** have a few places available
+- **Local ["Gites"](https://www.gites-de-france.com/en)** are less likely to be on the major booking platforms, but will probably give you a more authentic French country experience
+
+<div id="contact"></div>
+--------------------------
+# CONTACT 📞
+
+Estos son los números de teléfono de pepito:
