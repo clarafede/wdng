@@ -37,8 +37,8 @@ jobs:
       run: |
         docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          jekyll/jekyll:3.8 \
-          jekyll build
+          jekyll/jekyll:4.2.2 \
+          bash -c "gem install bundler && bundle install && jekyll build"
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
