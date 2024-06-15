@@ -33,18 +33,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v2
+    - name: Build & Deploy to GitHub Pages
+      uses: helaili/jekyll-action@2.0.1
       with:
-        node-version: '14' # Use the version of Node.js that your project requires
-
-    - name: Install dependencies and build
-      run: |
-        npm ci
-        npm run build # Replace with your build command
-
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./dist # Replace with your build output directory
+        token: ${{ secrets.GITHUB_TOKEN }}
