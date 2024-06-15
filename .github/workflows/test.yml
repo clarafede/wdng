@@ -1,6 +1,8 @@
 on:
   pull_request_target:
     branches: [ master ]
+  push:
+    branches: [ master ]
 jobs:
   approve: # First step
     runs-on: ubuntu-latest
