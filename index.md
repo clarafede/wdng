@@ -13,10 +13,17 @@ Nuestra boda es el <b>Sábado 23 de Noviembre del 2024</b>, en Crevillente (Alic
 --------------------------
 # THE VENUE
 
+Ceremonia:
 <p style='text-align: center'>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.3307802883182!2d-0.8113005238611887!3d38.248633684722684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63b96aef80a90b%3A0x6044a6ec6f39b085!2sParroquia%20Nuestra%20Se%C3%B1ora%20de%20Bel%C3%A9n!5e0!3m2!1ses!2ses!4v1718550695018!5m2!1ses!2ses" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</p>
+
+Celebración:
+<p style='text-align: center'>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.586353519015!2d-0.9982486238659392!3d38.12655669181772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd639a114efff9e5%3A0xd0b1e906828f2a9d!2sFinca%20Los%20Pinos%20Orihuela!5e0!3m2!1ses!2ses!4v1718551002198!5m2!1ses!2ses" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </p>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/77wx6QR3jmcOF5NY72ksTo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <p style='text-align: center'>The wedding venue is <a href='https://maps.app.goo.gl/ubD3wVfE6WosJkqH6'>La Bastide des Terres,</a> 70 Chemin de Chabrier, 26270 Mirmande, France.</p>
 
