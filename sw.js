@@ -1,8 +1,8 @@
-const version = '20240616055431';
+const version = '20240616055959';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/accommodation/","/agenda/","/faq/","/gifts/","/","/photos/","/rsvp/","/assets/styles.css","/travel/","/venue/","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/wdng/accommodation/","/wdng/agenda/","/wdng/faq/","/wdng/gifts/","/wdng/","/wdng/photos/","/wdng/rsvp/","/wdng/assets/styles.css","/wdng/travel/","/wdng/venue/","/wdng/manifest.json","/wdng/assets/search.json","/wdng/redirects.json","/wdng/sitemap.xml","/wdng/robots.txt","/wdng/feed.xml","/wdng/assets/styles.css.map","", "/wdng/assets/default-offline-image.png", "/wdng/assets/scripts/fetch.js"
   ]
 }
 
@@ -60,7 +60,7 @@ self.addEventListener("fetch", event => {
 
   if (request.url.match(/\.(jpe?g|png|gif|svg)$/)) {
     // If url requested is an image and isn't cached, return default offline image
-    offlineAsset = "/assets/default-offline-image.png";
+    offlineAsset = "/wdng/assets/default-offline-image.png";
   }
 
   // For all urls request image from network, then fallback to cache, then fallback to offline page
