@@ -22,7 +22,7 @@ plugins:
 - fastimage
 
 # Site settings
-url: 'https://www.archieandanna.com'
+url: 'https://clarafede.github.io/wdng'
 baseurl: ''
 title: "Clara & Fede"
 image: "../assets/images/sweden-aperol.jpg"
