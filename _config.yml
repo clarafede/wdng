@@ -22,8 +22,8 @@ plugins:
 - fastimage
 
 # Site settings
-url: 'https://clarafede.github.io/wdng'
-baseurl: ''
+url: 'https://clarafede.github.io'
+baseurl: '/wdng'
 title: "Clara & Fede"
 image: "../assets/images/sweden-aperol.jpg"
 description: "All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!"

@@ -2,7 +2,7 @@
 title: Clara & Fede -- Nos casamos!
 description: 💍 Saturday 9th July 2022 🇫🇷 All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!
 image: "../assets/images/test3.jpg"
-feature_image: "../assets/images/test4.jpg"
+feature_image: "{{ site.baseurl }}/assets/images/test4.jpg"
 ---
 
 <p style='text-align: center'>
