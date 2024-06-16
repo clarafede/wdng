@@ -126,9 +126,9 @@ This is the rough plan:
     - 12pm - 6pm: Relaxing by the pool & in the grounds
     - Guests can stay until 6pm, when we have to vacate
 
-<div id="accomodation"></div>
+<div id="alojamiento"></div>
 --------------------------
-# ACOMMODATION
+# Alojamiento
 
 &nbsp; 
 

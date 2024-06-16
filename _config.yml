@@ -42,8 +42,8 @@ navigation_header:
   url: /#transporte
 - title: Agenda
   url: /#agenda
-- title: Accomodation
-  url: /#accomodation
+- title: Alojamiento
+  url: /#alojamiento
 - title: Música
   url: /#musica
 - title: Contacto
