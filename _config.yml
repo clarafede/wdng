@@ -34,8 +34,8 @@ google_analytics_anonymize_ip: false
 
 # Header nav
 navigation_header:
-- title: Home
-  url: /
+# - title: Home
+#   url: /
 - title: Venue Info
   url: /#venue-info
 - title: Travel

@@ -1,7 +1,7 @@
 ---
 title: Clara & Fede -- Nos casamos!
-description: 💍 Saturday 9th July 2022 🇫🇷 All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!
-image: "../assets/images/test3.jpg"
+description: 💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda.
+image: "assets/images/test2.jpg"
 feature_image: "assets/images/test2.jpg"
 ---
 
