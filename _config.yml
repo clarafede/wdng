@@ -36,16 +36,18 @@ google_analytics_anonymize_ip: false
 navigation_header:
 # - title: Home
 #   url: /
-- title: Venue Info
-  url: /#venue-info
-- title: Travel
-  url: /#travel
+- title: Localización
+  url: /#localizacion
+- title: Transporte
+  url: /#transporte
 - title: Agenda
   url: /#agenda
 - title: Accomodation
   url: /#accomodation
-- title: Contact
-  url: /#contact
+- title: Música
+  url: /#musica
+- title: Contacto
+  url: /#contacto
 # - title: Photos
 #   url: /photos/
 

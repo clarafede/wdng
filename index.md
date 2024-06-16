@@ -1,60 +1,64 @@
 ---
-title: Clara & Fede -- Nos casamos!
+title: Clara & Fede &ndash; Nos casamos!
 description: 💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda.
 image: "assets/images/test2.jpg"
 feature_image: "assets/images/test2.jpg"
 ---
 
 <p style='text-align: center'>
-Nuestra boda es el <b>Sábado 23 de Noviembre del 2024</b>, en Crevillente (Alicante).
+Si estás leyendo esto es porque te esperamos el <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:00h</b> en la <b>Parroquia Nuestra Señora de Belén</b> de Crevillente, Alicante.
 </p>
 
-<div id="venue-info"></div>
---------------------------
-# THE VENUE
+<p style='text-align: center'>
+<b>Acompáñanos en el día de nuestra boda!</b>
+</p>
 
-Ceremonia:
+<div id="localizacion"></div>
+--------------------------
+# Localización
+
+&nbsp; 
+
+#### **Ceremonia** 💍
+Parroquia Nuestra Señora de Belén (Crevillente, Alicante)
 <p style='text-align: center'>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.3307802883182!2d-0.8113005238611887!3d38.248633684722684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63b96aef80a90b%3A0x6044a6ec6f39b085!2sParroquia%20Nuestra%20Se%C3%B1ora%20de%20Bel%C3%A9n!5e0!3m2!1ses!2ses!4v1718550695018!5m2!1ses!2ses" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </p>
 
-Celebración:
+#### **Celebración** 🥂🍾
+Finca Los Pinos (Orihuela, Alicante)
 <p style='text-align: center'>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.586353519015!2d-0.9982486238659392!3d38.12655669181772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd639a114efff9e5%3A0xd0b1e906828f2a9d!2sFinca%20Los%20Pinos%20Orihuela!5e0!3m2!1ses!2ses!4v1718551002198!5m2!1ses!2ses" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/77wx6QR3jmcOF5NY72ksTo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#### **El tiempo** 🌞
 
-<p style='text-align: center'>The wedding venue is <a href='https://maps.app.goo.gl/ubD3wVfE6WosJkqH6'>La Bastide des Terres,</a> 70 Chemin de Chabrier, 26270 Mirmande, France.</p>
+Aunque en el Levante solemos gozar de días soleados y agradables en Noviembre, échale un ojo a la predicción meterorologica si eres friolero/a! La mayoría del tiempo estaremos en espacios interiores, pero, si el tiempo lo permite, nos tomaremos alguna que otra en exteriores. 
 
+<a class="weatherwidget-io" href="https://forecast7.com/en/38d24n0d81/crevillent/" data-label_1="CREVILLENTE" data-label_2="WEATHER" data-theme="pure" >CREVILLENTE WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
 
-|[![La Bastide des Terres](../assets/images/bastide-wide-lq.jpg){:class="img-responsive"}](../assets/images/bastide-wide-lq.jpg)|  
-|:--:|
-| *View of La Bastide des Terres* |
-
-<br>
-
-<p style='text-align: center'> <b>Mirmande</b> is in the South of France, roughly halfway between <b>Lyon</b> and <b>Marseille</b>. It is just off the Rhone river.</p>
-
-<p style='text-align: center'> The weather in July in this part of France is generally lovely, averaging 27°C during the day, and 14°C overnight. </p>
-
-|[![Location of Bastide](../assets/images/france-map-wide-lq.png){:class="img-responsive"}](../assets/images/france-map-wide-lq.png)|
-|:--:|
-| *Location in France*  |
-
-<p style='text-align: right'>
-{% include button.html text="<b>Travel »</b>" link="../travel"%}
-</p>
-
-<div id="travel"></div>
+<div id="transporte"></div>
 --------------------------
-# TRAVEL
+# Transporte
 
-### Ridesharing 🤝🏼
-Most people's final leg of transport will involve a car. We've set up a [ridesharing spreadsheet](https://docs.google.com/spreadsheets/d/1o02hOkrnIfmcy2Br_meUX2KkyGG3ZbRqcB4DAKcWdD4/edit#gid=0), where you can see who is going where and when. If you are looking for, or offering shared transport, add your details / contact people directly.
+&nbsp; 
 
-## Travel Options
-`
+## Desde Murcia/Elche al evento
+
+### Autobuses 🚎
+<b>Ida:</b>
+- Murcia → Crevillente: 
+- Elche → Crevillente: 
+
+<b>Vuelta:</b>
+- Orihuela → Murcia: 
+- Orihuela → Elche: 
+
+## ¿Cómo llegar a Murcia/Elche?
+
 *There are lots of ways to get here, but we think many people will consider these options.*
 
 ### By Plane ✈️
@@ -94,13 +98,11 @@ _Please note, train stations are NOT walking distance from venue, and there is l
 
 We’ve googled this so you don’t have to. It’s a 10-12 hr drive from London 😓
 
-<p style='text-align: right'>
-{% include button.html text="<b>Agenda »</b>" link="../agenda"%}
-</p>
-
 <div id="agenda"></div>
 --------------------------
 # AGENDA
+
+&nbsp; 
 
 We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We have events each day, and they are all at the same venue. You are welcome to come to as much or as little as you like.
 
@@ -124,13 +126,11 @@ This is the rough plan:
     - 12pm - 6pm: Relaxing by the pool & in the grounds
     - Guests can stay until 6pm, when we have to vacate
 
-<p style='text-align: right'>
-{% include button.html text="<b>Accommodation »</b>" link="../accommodation"%}
-</p>
-
 <div id="accomodation"></div>
 --------------------------
 # ACOMMODATION
+
+&nbsp; 
 
 There are lots of good accommodation options nearby, some walkable from the venue, and many within a 20-25 min drive radius between nearby Montélimar and Valence. 
 
@@ -159,8 +159,21 @@ However, don't hang about too long on booking - it's peak summer season in Franc
 - **[Booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQ_YAQPoAQGIAgGoAgO4AoS-tZIGwAIB0gIkNzZjMjM1Y2YtM2FjYS00ZTcwLWE2NTAtMTA0NGMzNTEwNTRk2AIE4AIB&sid=84dbf8d58c741ae2b7e3d8e255230e9f&aid=304142&ss=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&ssne=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&ssne_untouched=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&lang=en-gb&latitude=44.7541476&longitude=4.8175266&checkin=2022-07-08&checkout=2022-07-10&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure&nflt=oos%3D1&order=distance_from_search) and [Airbnb](https://www.airbnb.com/s/Saulce~sur~Rhône/homes?place_id=ChIJO6q-k4RGtRIRcv4ZRcSqyuo&refinement_paths[]=%2Fhomes&checkin=2022-07-08&checkout=2022-07-10&adults=2&search_type=user_map_move&tab_id=home_tab&query=Saulce-sur-Rhône&flexible_trip_lengths[]=weekend_trip&date_picker_type=calendar&ne_lat=44.845739525943884&ne_lng=5.098128874917336&sw_lat=44.51843933386909&sw_lng=4.438399837483473&zoom=10&search_by_map=true)** have a few places available
 - **Local ["Gites"](https://www.gites-de-france.com/en)** are less likely to be on the major booking platforms, but will probably give you a more authentic French country experience
 
-<div id="contact"></div>
+<div id="musica"></div>
 --------------------------
-# CONTACT 📞
+# Música 🪩
 
-Estos son los números de teléfono de pepito:
+&nbsp; 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/77wx6QR3jmcOF5NY72ksTo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<div id="contacto"></div>
+--------------------------
+# Contacto 📞
+
+&nbsp; 
+
+Para cualquier duda o consulta, contacta con nosotros!
+
+- Clara: 🇪🇸 [+34 695304944](tel:+34695304944) / 🇳🇱 [+31 651137240](tel:+31651137240)
+- Fede: 🇪🇸 [+34 617272064](tel:+34617272064) / 🇳🇱 [+31 651138018](tel:+31651138018)
