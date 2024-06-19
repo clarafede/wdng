@@ -13,6 +13,12 @@ Si estás leyendo esto es porque te esperamos el <b>Sábado 23 de Noviembre del 
 <b>Acompáñanos en el día de nuestra boda!</b>
 </p>
 
+<div id="cuestionario"></div>
+--------------------------
+# Cuestionario
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="640" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+
 <div id="localizacion"></div>
 --------------------------
 # Localización
