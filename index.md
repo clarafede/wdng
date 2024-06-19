@@ -41,7 +41,7 @@ Finca Los Pinos (Orihuela, Alicante)
 
 Aunque en el Levante solemos gozar de días soleados y agradables en Noviembre, échale un ojo a la predicción meterorologica si eres friolero/a! La mayoría del tiempo estaremos en espacios interiores, pero, si el tiempo lo permite, nos tomaremos alguna que otra en exteriores. 
 
-<a class="weatherwidget-io" href="https://forecast7.com/en/38d24n0d81/crevillent/" data-label_1="CREVILLENTE" data-label_2="WEATHER" data-theme="pure" >CREVILLENTE WEATHER</a>
+<a class="weatherwidget-io" href="https://forecast7.com/en/38d24n0d81/crevillent/" data-label_1="CREVILLENTE" data-theme="pure" >CREVILLENTE WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
