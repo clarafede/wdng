@@ -36,6 +36,8 @@ google_analytics_anonymize_ip: false
 navigation_header:
 # - title: Home
 #   url: /
+- title: Cuestionario
+  url: /#cuestionario
 - title: Localización
   url: /#localizacion
 - title: Transporte
