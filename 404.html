@@ -195,20 +195,27 @@
   // Get all nav options
   const navOptions = document.querySelectorAll('.header .list--nav li');
 
-  // Function to toggle nav visibility
+  // Function to toggle nav visibility and padding
   const toggleNavVisibility = () => {
     navList.style.setProperty('transition', `margin .1s`);
     if (navList.style.getPropertyValue('--listHeight')) {
       navList.style.removeProperty('--listHeight');
+      navList.style.paddingBottom = '1rem';
     } else {
       navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`);
+      navList.style.paddingBottom = '0rem';
     }
   };
 
-  // Hide nav and apply toggle
+  // Hide nav, apply toggle, and adjust padding
   const collapseNav = () => {
     if (document.body.clientWidth < 640) {
       navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`);
+      navList.style.paddingBottom = '0rem';
+      navList.style.removeProperty('--listHeight');
+      navList.style.paddingBottom = '1rem';
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`);
+      navList.style.paddingBottom = '0rem';
     } else {
       navList.removeAttribute('style');
     }
@@ -229,6 +236,10 @@
 
   // Check on resize if to collapse nav
   window.addEventListener('resize', () => {
+    collapseNav();
+  });
+
+  document.addEventListener('DOMContentLoaded', () => {
     collapseNav();
   });
 </script>
