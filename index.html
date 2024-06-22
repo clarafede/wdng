@@ -112,6 +112,13 @@
 
       
 
+      <li class="item  item--nav  item--current">
+        <a href="/wdng/">Inicio</a>
+      </li>
+    
+
+      
+
       <li class="item  item--nav">
         <a href="/wdng/#cuestionario">Cuestionario</a>
       </li>
@@ -210,9 +217,13 @@
 
   collapseNav();
 
-  // Close nav when an option is clicked
+  // Modify close nav when an option is clicked to only work in compressed mode
   navOptions.forEach(option => {
-    option.addEventListener('click', toggleNavVisibility);
+    option.addEventListener('click', () => {
+      if (document.body.clientWidth < 640) { // Check if in compressed mode
+        toggleNavVisibility();
+      }
+    });
   });
 
   // Check on resize if to collapse nav
