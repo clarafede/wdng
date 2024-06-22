@@ -34,6 +34,8 @@ google_analytics_anonymize_ip: false
 
 # Header nav
 navigation_header:
+- title: Inicio
+  url: /
 - title: Cuestionario
   url: /#cuestionario
 - title: Localización

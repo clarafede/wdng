@@ -1,4 +1,6 @@
 navigation_header:
+  - title: Inicio
+    url: /
   - title: Cuestionario
     url: /#cuestionario
   - title: Localización
