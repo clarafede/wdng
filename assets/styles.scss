@@ -111,6 +111,14 @@ $bodytype: (font-family: '"Josefin Sans", sans-serif',
   align-items: center !important;
   justify-content: center;
   overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background: $backgroundColour;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
+  padding-bottom: 1rem; // Added padding below
+  transition: background 0.3s;
 }
 
 //Feature Styling

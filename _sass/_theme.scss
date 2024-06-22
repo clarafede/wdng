@@ -340,12 +340,20 @@ button,
   background: none;
   color: $linkColour;
   margin-bottom: 0;
-  min-height: 4rem;
-  min-width: 4rem;
+  min-height: 2rem;
+  min-width: 2rem;
   &:hover,
   &:focus {
     box-shadow: none;
     color: $hoverColour;
+  }
+}
+
+// Assuming .nav-list represents the container of the navigation items
+.list--nav {
+  // Target the first item in the list
+  > li:first-child {
+    margin-top: 1rem; // Increase the top margin of the first item, adjust as needed
   }
 }
 
