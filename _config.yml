@@ -34,8 +34,6 @@ google_analytics_anonymize_ip: false
 
 # Header nav
 navigation_header:
-# - title: Home
-#   url: /
 - title: Cuestionario
   url: /#cuestionario
 - title: Localización
@@ -50,8 +48,10 @@ navigation_header:
   url: /#musica
 - title: Contacto
   url: /#contacto
-# - title: Photos
-#   url: /photos/
+- title: 🇪🇸
+  url: /
+- title: 🇬🇧
+  url: /en/
 
 
 # Footer nav

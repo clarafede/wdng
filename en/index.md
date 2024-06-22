@@ -3,7 +3,7 @@ title: Clara & Fede &ndash; Nos casamos!
 description: 💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda.
 image: "assets/images/test2.jpg"
 feature_image: "assets/images/test2.jpg"
-lang: es
+lang: en
 ---
 
 <p style='text-align: center'>
@@ -14,15 +14,15 @@ Si estás leyendo esto es porque te esperamos el <b>Sábado 23 de Noviembre del 
 <b>Acompáñanos en el día de nuestra boda!</b>
 </p>
 
-<div id="cuestionario"></div>
+<div id="questionnaire"></div>
 --------------------------
-# Cuestionario
+# Questionnaire
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
-<div id="localizacion"></div>
+<div id="location"></div>
 --------------------------
-# Localización
+# Location
 
 &nbsp; 
 
@@ -47,9 +47,9 @@ Aunque en el Levante solemos gozar de días soleados y agradables en Noviembre, 
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
 
-<div id="transporte"></div>
+<div id="transport"></div>
 --------------------------
-# Transporte
+# Transport
 
 &nbsp; 
 
@@ -133,9 +133,9 @@ This is the rough plan:
     - 12pm - 6pm: Relaxing by the pool & in the grounds
     - Guests can stay until 6pm, when we have to vacate
 
-<div id="alojamiento"></div>
+<div id="accommodation"></div>
 --------------------------
-# Alojamiento
+# Accommodation
 
 &nbsp; 
 
@@ -166,17 +166,17 @@ However, don't hang about too long on booking - it's peak summer season in Franc
 - **[Booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQ_YAQPoAQGIAgGoAgO4AoS-tZIGwAIB0gIkNzZjMjM1Y2YtM2FjYS00ZTcwLWE2NTAtMTA0NGMzNTEwNTRk2AIE4AIB&sid=84dbf8d58c741ae2b7e3d8e255230e9f&aid=304142&ss=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&ssne=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&ssne_untouched=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&lang=en-gb&latitude=44.7541476&longitude=4.8175266&checkin=2022-07-08&checkout=2022-07-10&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure&nflt=oos%3D1&order=distance_from_search) and [Airbnb](https://www.airbnb.com/s/Saulce~sur~Rhône/homes?place_id=ChIJO6q-k4RGtRIRcv4ZRcSqyuo&refinement_paths[]=%2Fhomes&checkin=2022-07-08&checkout=2022-07-10&adults=2&search_type=user_map_move&tab_id=home_tab&query=Saulce-sur-Rhône&flexible_trip_lengths[]=weekend_trip&date_picker_type=calendar&ne_lat=44.845739525943884&ne_lng=5.098128874917336&sw_lat=44.51843933386909&sw_lng=4.438399837483473&zoom=10&search_by_map=true)** have a few places available
 - **Local ["Gites"](https://www.gites-de-france.com/en)** are less likely to be on the major booking platforms, but will probably give you a more authentic French country experience
 
-<div id="musica"></div>
+<div id="music"></div>
 --------------------------
-# Música 🪩
+# Music 🪩
 
 &nbsp; 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/77wx6QR3jmcOF5NY72ksTo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<div id="contacto"></div>
+<div id="contact"></div>
 --------------------------
-# Contacto 📞
+# Contact 📞
 
 &nbsp; 
 

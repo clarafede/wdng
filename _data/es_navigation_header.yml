@@ -1,0 +1,19 @@
+navigation_header:
+  - title: Cuestionario
+    url: /#cuestionario
+  - title: Localización
+    url: /#localizacion
+  - title: Transporte
+    url: /#transporte
+  - title: Agenda
+    url: /#agenda
+  - title: Alojamiento
+    url: /#alojamiento
+  - title: Música
+    url: /#musica
+  - title: Contacto
+    url: /#contacto
+  - title: 🇪🇸
+    url: /
+  - title: 🇬🇧
+    url: /en/
