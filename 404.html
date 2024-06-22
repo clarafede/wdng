@@ -183,33 +183,43 @@
 
 <script type="text/javascript">
   // Get list and button
-  const navList = document.querySelector('.header .list--nav')
-  const button  = document.querySelector('.header .button--nav')
+  const navList = document.querySelector('.header .list--nav');
+  const button = document.querySelector('.header .button--nav');
+  // Get all nav options
+  const navOptions = document.querySelectorAll('.header .list--nav li');
+
+  // Function to toggle nav visibility
+  const toggleNavVisibility = () => {
+    navList.style.setProperty('transition', `margin .1s`);
+    if (navList.style.getPropertyValue('--listHeight')) {
+      navList.style.removeProperty('--listHeight');
+    } else {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`);
+    }
+  };
 
   // Hide nav and apply toggle
   const collapseNav = () => {
     if (document.body.clientWidth < 640) {
-      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`);
     } else {
-      navList.removeAttribute('style')
+      navList.removeAttribute('style');
     }
 
-    button.onclick = () => {
-      navList.style.setProperty('transition', `margin .1s`)
-      if (navList.style.getPropertyValue('--listHeight')) {
-        navList.style.removeProperty('--listHeight')
-      } else {
-        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
-      }
-    }
-  }
+    button.onclick = toggleNavVisibility;
+  };
 
-  collapseNav()
+  collapseNav();
+
+  // Close nav when an option is clicked
+  navOptions.forEach(option => {
+    option.addEventListener('click', toggleNavVisibility);
+  });
 
   // Check on resize if to collapse nav
   window.addEventListener('resize', () => {
-    collapseNav()
-  })
+    collapseNav();
+  });
 </script>
   </div>
 

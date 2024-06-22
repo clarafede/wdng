@@ -14,13 +14,13 @@
 <meta name="generator" content="Jekyll v4.2.2" />
 <meta property="og:title" content="Photos" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="All the info you need about our wedding location and venue, as well as travel &amp; accommodation options. We’ll post photos up here after too!" />
-<meta property="og:description" content="All the info you need about our wedding location and venue, as well as travel &amp; accommodation options. We’ll post photos up here after too!" />
+<meta name="description" content="💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda." />
+<meta property="og:description" content="💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda." />
 <link rel="canonical" href="https://clarafede.github.io/wdng/photos/" />
 <meta property="og:url" content="https://clarafede.github.io/wdng/photos/" />
 <meta property="og:site_name" content="Clara &amp; Fede" />
 <script type="application/ld+json">
-{"headline":"Photos","url":"https://clarafede.github.io/wdng/photos/","@type":"WebPage","description":"All the info you need about our wedding location and venue, as well as travel &amp; accommodation options. We’ll post photos up here after too!","@context":"https://schema.org"}</script>
+{"headline":"Photos","url":"https://clarafede.github.io/wdng/photos/","@type":"WebPage","description":"💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -181,33 +181,43 @@
 
 <script type="text/javascript">
   // Get list and button
-  const navList = document.querySelector('.header .list--nav')
-  const button  = document.querySelector('.header .button--nav')
+  const navList = document.querySelector('.header .list--nav');
+  const button = document.querySelector('.header .button--nav');
+  // Get all nav options
+  const navOptions = document.querySelectorAll('.header .list--nav li');
+
+  // Function to toggle nav visibility
+  const toggleNavVisibility = () => {
+    navList.style.setProperty('transition', `margin .1s`);
+    if (navList.style.getPropertyValue('--listHeight')) {
+      navList.style.removeProperty('--listHeight');
+    } else {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`);
+    }
+  };
 
   // Hide nav and apply toggle
   const collapseNav = () => {
     if (document.body.clientWidth < 640) {
-      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`);
     } else {
-      navList.removeAttribute('style')
+      navList.removeAttribute('style');
     }
 
-    button.onclick = () => {
-      navList.style.setProperty('transition', `margin .1s`)
-      if (navList.style.getPropertyValue('--listHeight')) {
-        navList.style.removeProperty('--listHeight')
-      } else {
-        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
-      }
-    }
-  }
+    button.onclick = toggleNavVisibility;
+  };
 
-  collapseNav()
+  collapseNav();
+
+  // Close nav when an option is clicked
+  navOptions.forEach(option => {
+    option.addEventListener('click', toggleNavVisibility);
+  });
 
   // Check on resize if to collapse nav
   window.addEventListener('resize', () => {
-    collapseNav()
-  })
+    collapseNav();
+  });
 </script>
   </div>
 
