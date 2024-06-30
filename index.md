@@ -7,6 +7,10 @@ logo: "assets/logos/logo.svg"
 lang: es
 ---
 
+<a href="" class="no-underline" style="position: fixed; bottom: 20px; right: 20px; background-color: #ffffff; color: #000000; border-radius: 50%; text-align: center; width: 50px; height: 50px; display: flex; justify-content: center; align-items: center; font-size: 24px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; text-decoration: none;">
+🏠
+</a>
+
 <p style='text-align: center'>
 Si estás leyendo esto es porque te esperamos el <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:00h</b> en la <b>Parroquia Nuestra Señora de Belén</b> de Crevillente, Alicante.
 </p>
@@ -169,6 +173,8 @@ However, don't hang about too long on booking - it's peak summer season in Franc
 
 ¿Hay alguna canción que te gustarīa que sonase en nuestra boda? <br />
 Únete a la playlist y añade las que quieras! 
+<!-- <div style="text-align: center;">
+</div> -->
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -176,10 +182,14 @@ However, don't hang about too long on booking - it's peak summer season in Franc
 --------------------------
 # Contacto 📞
 
-<div style="text-align: center;">
-Para cualquier duda o consulta, contacta con nosotros!
+Para cualquier duda o consulta, contacta con nosotros:
 
-<p>- Clara: 🇪🇸 <a href="tel:+34695304944">+34 695304944</a> / 🇳🇱 <a href="tel:+31651137240">+31 651137240</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/w480.png" alt="WhatsApp" width="25" height="25"/></span> <a href="https://wa.me/34695304944">WhatsApp</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/t480.png" alt="Telegram" width="25" height="25"/></span> <a href="https://t.me/claricornio">Telegram</a></p>
-<p>- Fede: &nbsp;🇪🇸 <a href="tel:+34617272064">+34 617272064</a> / 🇳🇱 <a href="tel:+31651138018">+31 651138018</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/w480.png" alt="WhatsApp" width="25" height="25"/></span> <a href="https://wa.me/34617272064">WhatsApp</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/t480.png" alt="Telegram" width="25" height="25"/></span> <a href="https://t.me/fedopedo">Telegram</a></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- __Clara__: &nbsp;&nbsp;🇪🇸 <a href="tel:+34695304944">+34 695304944</a> / 🇳🇱 <a href="tel:+31651137240">+31 651137240</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/w480.png" alt="WhatsApp" width="25" height="25"/></span> <a href="https://wa.me/34695304944">WhatsApp</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/t480.png" alt="Telegram" width="25" height="25"/></span> <a href="https://t.me/claricornio">Telegram</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- __Fede__: &nbsp;&nbsp;&nbsp;🇪🇸 <a href="tel:+34617272064">+34 617272064</a> / 🇳🇱 <a href="tel:+31651138018">+31 651138018</a> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/w480.png" alt="WhatsApp" width="25" height="25"/></span> <a href="https://wa.me/34617272064">WhatsApp</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/t480.png" alt="Telegram" width="25" height="25"/></span> <a href="https://t.me/fedopedo">Telegram</a>
 
-</div>
+<!-- <div style="text-align: center;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Clara: &nbsp;&nbsp;🇪🇸 <a href="tel:+34695304944">+34 695304944</a> / 🇳🇱 <a href="tel:+31651137240">+31 651137240</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/w480.png" alt="WhatsApp" width="25" height="25"/></span> <a href="https://wa.me/34695304944">WhatsApp</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/t480.png" alt="Telegram" width="25" height="25"/></span> <a href="https://t.me/claricornio">Telegram</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Fede: &nbsp;&nbsp;🇪🇸 <a href="tel:+34617272064">+34 617272064</a> / 🇳🇱 <a href="tel:+31651138018">+31 651138018</a> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/w480.png" alt="WhatsApp" width="25" height="25"/></span> <a href="https://wa.me/34617272064">WhatsApp</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/t480.png" alt="Telegram" width="25" height="25"/></span> <a href="https://t.me/fedopedo">Telegram</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div> -->

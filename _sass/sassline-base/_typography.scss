@@ -31,6 +31,12 @@ a {
   }
 }
 
+// Custom class for links without underline
+.no-underline {
+  background-image: none !important; // Remove underline
+  text-shadow: none !important; // Remove text shadow if used for underline effect
+}
+
 // Styles for typeset text.
 .typeset {
 

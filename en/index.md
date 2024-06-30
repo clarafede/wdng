@@ -6,6 +6,10 @@ feature_image: "../assets/images/test2.jpg"
 lang: en
 ---
 
+<a href="" class="no-underline" style="position: fixed; bottom: 20px; right: 20px; background-color: #ffffff; color: #000000; border-radius: 50%; text-align: center; width: 50px; height: 50px; display: flex; justify-content: center; align-items: center; font-size: 24px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; text-decoration: none;">
+🏠
+</a>
+
 <p style='text-align: center'>
 Si estás leyendo esto es porque te esperamos el <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:00h</b> en la <b>Parroquia Nuestra Señora de Belén</b> de Crevillente, Alicante.
 </p>
