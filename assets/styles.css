@@ -41,6 +41,8 @@ a { color: #306090; text-decoration: none; transition: color .1s, background-col
 
 a:hover, a:active, a:focus { color: #304878; text-decoration: none; }
 
+.no-underline { background-image: none !important; text-shadow: none !important; }
+
 .typeset p a, .typeset li a { background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #306090 50%); background-position: 0 93%; background-repeat: repeat-x; background-size: 100% 0.15rem; text-shadow: 0.1rem 0 #ffffff, 0.15rem 0 #ffffff, -0.1rem 0 #ffffff, -0.15rem 0 #ffffff; }
 
 .typeset p a:hover, .typeset p a:active, .typeset p a:focus, .typeset li a:hover, .typeset li a:active, .typeset li a:focus { background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #304878 50%); }
@@ -441,6 +443,8 @@ body { font-size: 1.3333333333rem; font-family: "Josefin Sans", sans-serif; font
 a { color: #306090; text-decoration: none; transition: color .1s, background-color .1s; }
 
 a:hover, a:active, a:focus { color: #304878; text-decoration: none; }
+
+.no-underline { background-image: none !important; text-shadow: none !important; }
 
 .typeset p a, .typeset li a { background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #306090 50%); background-position: 0 93%; background-repeat: repeat-x; background-size: 100% 0.15rem; text-shadow: 0.1rem 0 #ffffff, 0.15rem 0 #ffffff, -0.1rem 0 #ffffff, -0.15rem 0 #ffffff; }
 
