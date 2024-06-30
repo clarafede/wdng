@@ -49,10 +49,10 @@ body {
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
-  background-position: center;
+  background-position: 50% 30%; // Adjust the second value to control vertical alignment
   .container {
     max-width: 60%;
-    min-height: 74vh;
+    min-height: 76vh;
     @include flex-direction(column);
     @include justify-content(center);
   }
