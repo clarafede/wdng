@@ -1,15 +1,13 @@
 navigation_header:
   - title: Inicio
     url: /
-  - title: Cuestionario
-    url: /#cuestionario
-  - title: Localización
-    url: /#localizacion
-  - title: Transporte
+  - title: Confirmación
+    url: /#confirmacion
+  - title: Detalles del Día
+    url: /#detalles
+  - title: ¿Cómo llegar a Murcia/Elche?
     url: /#transporte
-  - title: Agenda
-    url: /#agenda
-  - title: Alojamiento
+  - title: Alojamiento y Estancia
     url: /#alojamiento
   - title: Música
     url: /#musica

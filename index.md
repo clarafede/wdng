@@ -3,6 +3,7 @@ title: Clara & Fede &ndash; Nos casamos!
 description: 💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda.
 image: "assets/images/test2.jpg"
 feature_image: "assets/images/test2.jpg"
+logo: "assets/logos/logo.svg"
 lang: es
 ---
 
@@ -14,17 +15,21 @@ Si estás leyendo esto es porque te esperamos el <b>Sábado 23 de Noviembre del 
 <b>Acompáñanos en el día de nuestra boda!</b>
 </p>
 
-<div id="cuestionario"></div>
+<div id="confirmacion"></div>
 --------------------------
-# Cuestionario
+# Confirmación
+
+<!-- &nbsp;  -->
+
+Necesitamos saber si vas a venir...
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
-<div id="localizacion"></div>
+<div id="detalles"></div>
 --------------------------
-# Localización
+# Detalles del Día
 
-&nbsp; 
+<!-- &nbsp;  -->
 
 #### **Ceremonia** 💍
 Parroquia Nuestra Señora de Belén (Crevillente, Alicante) el pueblo de la cornio
@@ -47,11 +52,27 @@ Aunque en el Levante solemos gozar de días soleados y agradables en Noviembre, 
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
 
-<div id="transporte"></div>
---------------------------
-# Transporte
+We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We have events each day, and they are all at the same venue. You are welcome to come to as much or as little as you like.
 
-&nbsp; 
+This is the rough plan:
+
+- **Friday**
+    - 6pm - 8pm: Buffet dinner for those arriving the day before
+    - Pool open - if you want to take a dip bring along your swimmers
+- **Saturday - Main Event**     
+  *Dress: "Riviera Chic" (See [FAQs](../faq/))*
+    - Before 1:30pm: Time for you to explore the local area
+    - 1:30pm - 2pm: Guests arrive at the venue
+    - 2pm - 3pm: Ceremony
+    - 3pm - 5pm: Canapes 
+    - 5pm - 7pm: Drinks, Lawn Games
+    - 7pm - 10pm: Dinner, Speeches
+    - 10pm - Late: Music & Dancing
+    
+- **Sunday**
+    - 10am - 12pm: Buffet Brunch 
+    - 12pm - 6pm: Relaxing by the pool & in the grounds
+    - Guests can stay until 6pm, when we have to vacate
 
 ## Desde Murcia/Elche al evento
 
@@ -64,7 +85,11 @@ Aunque en el Levante solemos gozar de días soleados y agradables en Noviembre, 
 - Orihuela → Murcia: 
 - Orihuela → Elche: 
 
-## ¿Cómo llegar a Murcia/Elche?
+<div id="transporte"></div>
+--------------------------
+# ¿Cómo llegar a Murcia/Elche?
+
+<!-- &nbsp;  -->
 
 *There are lots of ways to get here, but we think many people will consider these options.*
 
@@ -105,39 +130,11 @@ _Please note, train stations are NOT walking distance from venue, and there is l
 
 We’ve googled this so you don’t have to. It’s a 10-12 hr drive from London 😓
 
-<div id="agenda"></div>
---------------------------
-# AGENDA
-
-&nbsp; 
-
-We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We have events each day, and they are all at the same venue. You are welcome to come to as much or as little as you like.
-
-This is the rough plan:
-
-- **Friday**
-    - 6pm - 8pm: Buffet dinner for those arriving the day before
-    - Pool open - if you want to take a dip bring along your swimmers
-- **Saturday - Main Event**     
-  *Dress: "Riviera Chic" (See [FAQs](../faq/))*
-    - Before 1:30pm: Time for you to explore the local area
-    - 1:30pm - 2pm: Guests arrive at the venue
-    - 2pm - 3pm: Ceremony
-    - 3pm - 5pm: Canapes 
-    - 5pm - 7pm: Drinks, Lawn Games
-    - 7pm - 10pm: Dinner, Speeches
-    - 10pm - Late: Music & Dancing
-    
-- **Sunday**
-    - 10am - 12pm: Buffet Brunch 
-    - 12pm - 6pm: Relaxing by the pool & in the grounds
-    - Guests can stay until 6pm, when we have to vacate
-
 <div id="alojamiento"></div>
 --------------------------
-# Alojamiento
+# Alojamiento y Estancia
 
-&nbsp; 
+<!-- &nbsp;  -->
 
 There are lots of good accommodation options nearby, some walkable from the venue, and many within a 20-25 min drive radius between nearby Montélimar and Valence. 
 
@@ -170,17 +167,19 @@ However, don't hang about too long on booking - it's peak summer season in Franc
 --------------------------
 # Música 🪩
 
-&nbsp; 
+¿Hay alguna canción que te gustarīa que sonase en nuestra boda? <br />
+Únete a la playlist y añade las que quieras! 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/77wx6QR3jmcOF5NY72ksTo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div id="contacto"></div>
 --------------------------
 # Contacto 📞
 
-&nbsp; 
-
+<div style="text-align: center;">
 Para cualquier duda o consulta, contacta con nosotros!
 
-- Clara: 🇪🇸 [+34 695304944](tel:+34695304944) / 🇳🇱 [+31 651137240](tel:+31651137240)
-- Fede: 🇪🇸 [+34 617272064](tel:+34617272064) / 🇳🇱 [+31 651138018](tel:+31651138018)
+<p>- Clara: 🇪🇸 <a href="tel:+34695304944">+34 695304944</a> / 🇳🇱 <a href="tel:+31651137240">+31 651137240</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/w480.png" alt="WhatsApp" width="25" height="25"/></span> <a href="https://wa.me/34695304944">WhatsApp</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/t480.png" alt="Telegram" width="25" height="25"/></span> <a href="https://t.me/claricornio">Telegram</a></p>
+<p>- Fede: &nbsp;🇪🇸 <a href="tel:+34617272064">+34 617272064</a> / 🇳🇱 <a href="tel:+31651138018">+31 651138018</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/w480.png" alt="WhatsApp" width="25" height="25"/></span> <a href="https://wa.me/34617272064">WhatsApp</a> / <span class="no-underline" style="display: inline-block; vertical-align: middle; position: relative; top: 2px;"><img src="assets/images/t480.png" alt="Telegram" width="25" height="25"/></span> <a href="https://t.me/fedopedo">Telegram</a></p>
+
+</div>
