@@ -1,6 +1,6 @@
 navigation_header:
-  - title: "Home"
-    url: /en/
+  # - title: "Home"
+  #   url: /en/
   - title: "Questionnaire"
     url: /en/#questionnaire
   - title: "Location"

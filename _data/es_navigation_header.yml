@@ -1,6 +1,6 @@
 navigation_header:
-  - title: Inicio
-    url: /
+  # - title: Inicio
+  #   url: /
   - title: Confirmación
     url: /#confirmacion
   - title: Detalles del Día
