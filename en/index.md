@@ -6,9 +6,15 @@ feature_image: "../assets/images/main4.jpg"
 lang: en
 ---
 
-<a href="" class="no-underline" style="position: fixed; bottom: 20px; right: 20px; background-color: #ffffff; color: #000000; border-radius: 50%; text-align: center; width: 50px; height: 50px; display: flex; justify-content: center; align-items: center; font-size: 24px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; text-decoration: none;">
+<a href="#" id="scrollToTopButton" class="no-underline" style="position: fixed; bottom: 20px; right: 20px; background-color: #ffffff; color: #000000; border-radius: 50%; text-align: center; width: 50px; height: 50px; display: flex; justify-content: center; align-items: center; font-size: 24px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; text-decoration: none;">
 🏠
 </a>
+<script>
+document.getElementById('scrollToTopButton').addEventListener('click', function(event) {
+    event.preventDefault(); // Prevent the default anchor behavior
+    window.scrollTo({top: 0, behavior: 'smooth'}); // Scroll to the top of the page smoothly
+});
+</script>
 
 <div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 310px;">
   <p style="margin: 0; font-size: 14px;">If something doesn't work, text Fede 😊</p>
