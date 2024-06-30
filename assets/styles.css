@@ -858,9 +858,9 @@ body { background: #ffffff; color: #384743; height: 100%; display: flex; -webkit
 
 .header .nav { display: flex; flex-direction: column-reverse; align-items: flex-end; justify-content: flex-end; overflow: hidden; }
 
-.feature { padding-bottom: .4rem; margin-bottom: 2rem; text-align: center; background: #f9fafa; background-size: cover; background-position: center; }
+.feature { padding-bottom: .4rem; margin-bottom: 2rem; text-align: center; background: #f9fafa; background-size: cover; background-position: 50% 30%; }
 
-.feature .container { max-width: 60%; min-height: 74vh; -webkit-box-direction: normal; -webkit-box-orient: vertical; -webkit-flex-direction: column; -moz-flex-direction: column; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; -webkit-justify-content: center; -moz-justify-content: center; justify-content: center; }
+.feature .container { max-width: 60%; min-height: 76vh; -webkit-box-direction: normal; -webkit-box-orient: vertical; -webkit-flex-direction: column; -moz-flex-direction: column; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; -webkit-justify-content: center; -moz-justify-content: center; justify-content: center; }
 
 .logo { display: inline-block; line-height: 0; max-height: 4rem; display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; -webkit-align-items: center; -moz-align-items: center; align-items: center; }
 
