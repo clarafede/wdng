@@ -264,6 +264,16 @@
 🏠
 </a></p>
 
+<div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 310px;">
+  <p style="margin: 0; font-size: 14px;">If something doesn't work, text Fede 😊</p>
+  <button onclick="document.getElementById('feedbackDialog').style.display='none'" style="border: none; background-color: transparent; color: #000000; font-size: 24px; cursor: pointer;">&times;</button>
+</div>
+<script>
+  setTimeout(function() {
+    document.getElementById('feedbackDialog').style.display = 'none';
+  }, 2500); // 10000 milliseconds = 10 seconds
+</script>
+
 <p style="text-align: center">
 Si estás leyendo esto es porque te esperamos el <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:00h</b> en la <b>Parroquia Nuestra Señora de Belén</b> de Crevillente, Alicante.
 </p>
