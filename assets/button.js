@@ -4,7 +4,7 @@ const next_button = document.querySelector('a.button')
 
 // Hide nav and apply toggle
 const hideButton = () => {
-    if (document.body.clientWidth < 640) {
+    if (document.body.clientWidth < 695) {
         next_button.style.visibility = 'visible';
     } else {
         next_button.style.visibility = 'hidden';

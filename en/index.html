@@ -201,7 +201,7 @@
 
   // Hide nav, apply toggle, and adjust padding
   const collapseNav = () => {
-    if (document.body.clientWidth < 640) {
+    if (document.body.clientWidth < 695) {
       navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`);
       navList.style.paddingBottom = '0rem';
       navList.style.removeProperty('--listHeight');
@@ -220,7 +220,7 @@
   // Modify close nav when an option is clicked to only work in compressed mode
   navOptions.forEach(option => {
     option.addEventListener('click', () => {
-      if (document.body.clientWidth < 640) { // Check if in compressed mode
+      if (document.body.clientWidth < 695) { // Check if in compressed mode
         toggleNavVisibility();
       }
     });
