@@ -1,5 +1,5 @@
 ---
-title: Clara & Fede &ndash; Nos casamos!
+title: Clara & Fede &ndash; ¡Nos casamos!
 description: 💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda.
 image: "assets/images/main4.jpg"
 feature_image: "assets/images/main4.jpg"
@@ -28,11 +28,12 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 </script>
 
 <p style='text-align: center'>
-Si estás leyendo esto es porque te esperamos el <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:00h</b> en la <b>Parroquia Nuestra Señora de Belén</b> de Crevillente, Alicante.
+¡Apunta! El <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:00h</b>, celebramos nuestra boda en la <b>Parroquia Nuestra Señora de Belén</b>, Crevillente, Alicante.
 </p>
 
 <p style='text-align: center'>
-<b>Acompáñanos en el día de nuestra boda!</b>
+<!-- <b>Acompáñanos en el día de nuestra boda!</b> -->
+<b>¡Nos encantaría que vinieras a celebrar este día tan especial con nosotros!</b>
 </p>
 
 <div id="confirmacion"></div>
@@ -41,7 +42,9 @@ Si estás leyendo esto es porque te esperamos el <b>Sábado 23 de Noviembre del 
 
 <!-- &nbsp;  -->
 
-Necesitamos saber si vas a venir...
+<!-- ### Confirmación de Asistencia -->
+
+¡Tu presencia es muy importante para nosotros! Por favor, confirma tu asistencia (y otros detalles importantes) antes del **1 de Octubre de 2024** rellenando el siguiente formulario.<br>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
@@ -51,28 +54,48 @@ Necesitamos saber si vas a venir...
 
 <!-- &nbsp;  -->
 
-#### **Ceremonia** 💍
-Parroquia Nuestra Señora de Belén (Crevillente, Alicante) el pueblo de la cornio
-<p style='text-align: center'>
+## Localizaciones
+<div style="margin-top: 10px;"></div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
+  <div style="flex: 1; min-width: 300px; max-width: 50%; margin: 5px;">
+    <strong>Ceremonia</strong> 💍
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.3307802883182!2d-0.8113005238611887!3d38.248633684722684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63b96aef80a90b%3A0x6044a6ec6f39b085!2sParroquia%20Nuestra%20Se%C3%B1ora%20de%20Bel%C3%A9n!5e0!3m2!1ses!2ses!4v1718550695018!5m2!1ses!2ses" style="border:0; width: 100%; height: 200px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 50%; margin: 5px;">
+    <strong>Celebración</strong> 🥂
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.586353519015!2d-0.9982486238659392!3d38.12655669181772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd639a114efff9e5%3A0xd0b1e906828f2a9d!2sFinca%20Los%20Pinos%20Orihuela!5e0!3m2!1ses!2ses!4v1718551002198!5m2!1ses!2ses" style="border:0; width: 100%; height: 200px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</div>
+
+<!-- #### **Ceremonia** 💍
+Nos daremos el "sí, quiero" en la Parroquia Nuestra Señora de Belén, en Crevillente (Alicante), a las 12:00h.
+
+<!-- Parroquia Nuestra Señora de Belén (Crevillente, Alicante) el pueblo de la cornio -->
+<!-- <p style='text-align: center'>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.3307802883182!2d-0.8113005238611887!3d38.248633684722684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63b96aef80a90b%3A0x6044a6ec6f39b085!2sParroquia%20Nuestra%20Se%C3%B1ora%20de%20Bel%C3%A9n!5e0!3m2!1ses!2ses!4v1718550695018!5m2!1ses!2ses" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </p>
 
 #### **Celebración** 🥂🍾
-Finca Los Pinos (Orihuela, Alicante)
+La fiesta seguirá en Finca Los Pinos, Orihuela (Alicante). 
+
 <p style='text-align: center'>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.586353519015!2d-0.9982486238659392!3d38.12655669181772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd639a114efff9e5%3A0xd0b1e906828f2a9d!2sFinca%20Los%20Pinos%20Orihuela!5e0!3m2!1ses!2ses!4v1718551002198!5m2!1ses!2ses" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</p>
+</p> -->
 
-#### **El tiempo** 🌞
+<div style="margin-top: 10px;"></div>
+## El tiempo
 
-Aunque en el Levante solemos gozar de días soleados y agradables en Noviembre, échale un ojo a la predicción meterorologica si eres friolero/a! La mayoría del tiempo estaremos en espacios interiores, pero, si el tiempo lo permite, nos tomaremos alguna que otra en exteriores. 
+<!-- El Levante nos regala en noviembre días soleados que esperamos disfrutar. Aunque estaremos mayormente en interiores, si el clima acompaña, también aprovecharemos los hermosos exteriores. No olvides consultar la previsión meteorológica para venir preparado. -->
+
+Échale un ojo a la predicción meterorologica si eres friolero/a! La mayoría del tiempo estaremos en espacios interiores, pero nos tomaremos alguna que otra en exteriores si el tiempo lo permite. 
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/38d24n0d81/crevillent/" data-label_1="CREVILLENTE" data-theme="pure" >CREVILLENTE WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
 
-We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We have events each day, and they are all at the same venue. You are welcome to come to as much or as little as you like.
+<!-- We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We have events each day, and they are all at the same venue. You are welcome to come to as much or as little as you like.
 
 This is the rough plan:
 
@@ -92,18 +115,31 @@ This is the rough plan:
 - **Sunday**
     - 10am - 12pm: Buffet Brunch 
     - 12pm - 6pm: Relaxing by the pool & in the grounds
-    - Guests can stay until 6pm, when we have to vacate
+    - Guests can stay until 6pm, when we have to vacate -->
 
+<div style="margin-top: 15px;"></div>
 ## Desde Murcia/Elche al evento
 
 ### Autobuses 🚎
+Si no te apetece coger el coche (el parking en Crevillente puede ser complicado) ofreceremos servicio de autobús tanto para la ida como para la vuelta del evento.
+
 <b>Ida:</b>
-- Murcia → Crevillente: 
-- Elche → Crevillente: 
+- __Murcia → Crevillente__: Salida a las 11:00h en la Plaza Circular (enfrente de Capuchinos)
+- __Elche → Crevillente__: Salida a las 11:30h en ...
 
 <b>Vuelta:</b>
-- Orihuela → Murcia: 
-- Orihuela → Elche: 
+- __Orihuela → Murcia__: Salida a las 01:30h hacia la Plaza Circular
+- __Orihuela → Elche__: Salida a las 01:30h hacia ...
+
+<!-- ### Coche 🚗 -->
+
+### Taxi 🚕
+
+En el caso de necesitar un taxi:
+
+- __Radio Taxi Murcia__: <a href="tel:+34968248800">+34 968248800</a>
+- __Radio Taxi Elche__: <a href="tel:+34965427777">+34 965427777</a>
+- __Radio Taxi Orihuela__: <a href="tel:+34966740202">+34 966740202</a>
 
 <div id="transporte"></div>
 --------------------------
@@ -152,7 +188,7 @@ We’ve googled this so you don’t have to. It’s a 10-12 hr drive from London
 
 <div id="alojamiento"></div>
 --------------------------
-# Alojamiento y Estancia
+# Alojamiento / Estancia
 
 <!-- &nbsp;  -->
 
