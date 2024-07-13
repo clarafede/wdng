@@ -346,6 +346,6 @@ Para cualquier duda o consulta, no dudes en contactar con nosotros:
   </div>
   
 <div style="margin-top: 100px;"></div>
-<script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="5517436" class="tickcounter" style="display:block; left:0; width:100%; height:50px; position:relative; padding-top:0; margin:0 auto;" title="wdng" href="//www.tickcounter.com/">wdng</a>
+<!-- <script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="5517436" class="tickcounter" style="display:block; left:0; width:100%; height:50px; position:relative; padding-top:0; margin:0 auto;" title="wdng" href="//www.tickcounter.com/">wdng</a> -->
 
 <!-- <div style="margin-top: 20px;"></div> -->
