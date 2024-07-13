@@ -28,7 +28,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 </script>
 
 <p style='text-align: center'>
-¡Apunta! El <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:00h</b>, celebramos nuestra boda en la <b>Parroquia Nuestra Señora de Belén</b>, Crevillente, Alicante.
+¡Apunta! El <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:30h</b>, celebramos nuestra boda en la <b>Parroquia Nuestra Señora de Belén</b>, Crevillente, Alicante.
 </p>
 
 <p style='text-align: center'>
@@ -55,14 +55,16 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 <div id="detalles"></div>
 --------------------------
 <div style="margin-top: -35px;"></div>
-##### 💍🥂
+##### 👯‍♀️👯‍♂️👯‍♀️👯‍♂️
 <div style="margin-top: 5px;"></div>
 
 # Detalles del Día
 <div style="margin-top: 25px;"></div>
 
-## Localizaciones
-<div style="margin-top: 25px;"></div>
+<!-- ## Localizaciones
+<div style="margin-top: 15px;"></div> -->
+Te esperamos a las 12:30h en la Parroquia Nuestra Señora de Belén de Crevillente (Alicante). Luego seguiremos la fiesta hasta bien entrada la noche en la Finca Los Pinos de Orihuela (Alicante), a unos 25 minutos en coche desde Crevillente.  
+<div style="margin-top: 15px;"></div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
   <div style="flex: 1; min-width: 300px; max-width: 50%; margin: 5px;">
@@ -91,12 +93,41 @@ La fiesta seguirá en Finca Los Pinos, Orihuela (Alicante).
 </p> -->
 
 <div style="margin-top: 15px;"></div>
+## Desde Murcia/Elche al evento
+<div style="margin-top: 15px;"></div>
+
+### 🚎 Autobuses
+
+¡Recuerda reservar tu plaza en el formulario de confirmación si quieres dejarte el coche en casa!
+
+<b>Ida:</b>
+- __Murcia → Crevillente__: Salida a las 11:00h en la Plaza Circular (enfrente de Capuchinos)
+- __Elche → Crevillente__: Salida a las 11:30h en ...
+
+<b>Vuelta:</b>
+- __Orihuela → Murcia__: Salida a las 01:30h hacia la Plaza Circular
+- __Orihuela → Elche__: Salida a las 01:30h hacia ...
+
+### 🚕 Taxi 
+
+En el caso de necesitar un taxi, puedes probar suerte con los siguientes teléfonos:
+
+- __Radio Taxi Murcia__: <a href="tel:+34968248800">+34 968248800</a>
+- __Radio Taxi Elche__: <a href="tel:+34965427777">+34 965427777</a>
+- __Radio Taxi Orihuela__: <a href="tel:+34966740202">+34 966740202</a>
+
+### 🚗 Coche 
+
+Si decides coger el coche, todo está muy bien conectado a través de la autovía del Mediterráneo A-7. ¡Échale un ojo a los enlaces de Google Maps arriba para [la ceremonia en Crevillente](https://maps.app.goo.gl/b47VVJRHT5PBkAN98) y [la celebración en Orihuela](https://maps.app.goo.gl/Ed6tmv6UiBd86fcq6)!
+
+
+<div style="margin-top: 15px;"></div>
 ## El tiempo
-<div style="margin-top: 25px;"></div>
+<div style="margin-top: 15px;"></div>
 
 <!-- El Levante nos regala en noviembre días soleados que esperamos disfrutar. Aunque estaremos mayormente en interiores, si el clima acompaña, también aprovecharemos los hermosos exteriores. No olvides consultar la previsión meteorológica para venir preparado. -->
 
-Échale un ojo a la predicción meterorologica si eres friolero/a! La mayoría del tiempo estaremos en espacios interiores, pero nos tomaremos alguna que otra en exteriores si el tiempo lo permite. 
+¡Échale un ojo a la predicción meterorologica si eres friolero/a! La mayoría del tiempo estaremos en espacios interiores, pero nos tomaremos alguna que otra en exteriores si el tiempo lo permite. 
 <div style="margin-top: 15px;"></div>
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/38d24n0d81/crevillent/" data-label_1="CREVILLENTE" data-theme="pure" >CREVILLENTE WEATHER</a>
@@ -126,35 +157,12 @@ This is the rough plan:
     - 12pm - 6pm: Relaxing by the pool & in the grounds
     - Guests can stay until 6pm, when we have to vacate -->
 
-<div style="margin-top: 15px;"></div>
-## Desde Murcia/Elche al evento
-<div style="margin-top: 25px;"></div>
 
-### Autobuses 🚎
-Si no te apetece coger el coche (el parking en Crevillente puede ser complicado) ofreceremos servicio de autobús tanto para la ida como para la vuelta del evento.
-
-<b>Ida:</b>
-- __Murcia → Crevillente__: Salida a las 11:00h en la Plaza Circular (enfrente de Capuchinos)
-- __Elche → Crevillente__: Salida a las 11:30h en ...
-
-<b>Vuelta:</b>
-- __Orihuela → Murcia__: Salida a las 01:30h hacia la Plaza Circular
-- __Orihuela → Elche__: Salida a las 01:30h hacia ...
-
-<!-- ### Coche 🚗 -->
-
-### Taxi 🚕
-
-En el caso de necesitar un taxi:
-
-- __Radio Taxi Murcia__: <a href="tel:+34968248800">+34 968248800</a>
-- __Radio Taxi Elche__: <a href="tel:+34965427777">+34 965427777</a>
-- __Radio Taxi Orihuela__: <a href="tel:+34966740202">+34 966740202</a>
 
 <div id="planviaje"></div>
 --------------------------
 <div style="margin-top: -35px;"></div>
-##### __Plan de viaje__ 🛫📍🏨
+##### __Viaje__ 🛫
 <div style="margin-top: 5px;"></div>
 
 # Viajar a Murcia/Elche
@@ -204,7 +212,7 @@ We’ve googled this so you don’t have to. It’s a 10-12 hr drive from London
 <div id="alojamiento"></div>
 --------------------------
 <div style="margin-top: -35px;"></div>
-##### __Plan de viaje__ 🛫📍🏨
+##### __Viaje__ 🛫
 <div style="margin-top: 5px;"></div>
 
 # Alojamiento
@@ -239,7 +247,7 @@ However, don't hang about too long on booking - it's peak summer season in Franc
 
 --------------------------
 <div style="margin-top: -35px;"></div>
-##### __Plan de viaje__ 🛫📍🏨
+##### __Viaje__ 🛫
 <div style="margin-top: 5px;"></div>
 
 # Estancia
@@ -264,7 +272,7 @@ However, don't hang about too long on booking - it's peak summer season in Franc
 <div style="margin-top: 25px;"></div>
 
 ¿Hay alguna canción que te gustarīa que sonase en nuestra boda? <br />
-Únete a la playlist y añade las que quieras!
+¡Únete a la playlist y añade las que quieras!
 <div style="margin-top: 15px;"></div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -342,3 +350,8 @@ Para cualquier duda o consulta, no dudes en contactar con nosotros:
     </table>
   </div>
   
+
+<div style="margin-top: 200px;"></div>
+<script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="5517436" class="tickcounter" style="display:block; left:0; width:100%; height:50px; position:relative; padding-top:0; margin:0 auto;" title="wdng" href="//www.tickcounter.com/">wdng</a>
+
+<div style="margin-top: 20px;"></div>
