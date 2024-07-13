@@ -38,32 +38,39 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 
 <div id="confirmacion"></div>
 --------------------------
-# Confirmación
+<div style="margin-top: -35px;"></div>
+##### 🙏📝🙏
+<div style="margin-top: 5px;"></div>
 
-<!-- &nbsp;  -->
+# Confirmación
+<div style="margin-top: 25px;"></div>
 
 <!-- ### Confirmación de Asistencia -->
 
-¡Tu presencia es muy importante para nosotros! Por favor, confirma tu asistencia (y otros detalles importantes) antes del **1 de Octubre de 2024** rellenando el siguiente formulario.<br>
+¡Tu presencia es muy importante para nosotros! Por favor, confirma tu asistencia (y otros detalles importantes) antes del **1 de Octubre de 2024** rellenando el siguiente formulario.
+<div style="margin-top: 15px;"></div>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
 <div id="detalles"></div>
 --------------------------
-# Detalles del Día
+<div style="margin-top: -35px;"></div>
+##### 💍🥂
+<div style="margin-top: 5px;"></div>
 
-<!-- &nbsp;  -->
+# Detalles del Día
+<div style="margin-top: 25px;"></div>
 
 ## Localizaciones
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 25px;"></div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
   <div style="flex: 1; min-width: 300px; max-width: 50%; margin: 5px;">
-    <strong>Ceremonia</strong> 💍
+    <strong>Ceremonia</strong>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.3307802883182!2d-0.8113005238611887!3d38.248633684722684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63b96aef80a90b%3A0x6044a6ec6f39b085!2sParroquia%20Nuestra%20Se%C3%B1ora%20de%20Bel%C3%A9n!5e0!3m2!1ses!2ses!4v1718550695018!5m2!1ses!2ses" style="border:0; width: 100%; height: 200px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
   <div style="flex: 1; min-width: 300px; max-width: 50%; margin: 5px;">
-    <strong>Celebración</strong> 🥂
+    <strong>Celebración</strong>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.586353519015!2d-0.9982486238659392!3d38.12655669181772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd639a114efff9e5%3A0xd0b1e906828f2a9d!2sFinca%20Los%20Pinos%20Orihuela!5e0!3m2!1ses!2ses!4v1718551002198!5m2!1ses!2ses" style="border:0; width: 100%; height: 200px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 </div>
@@ -83,12 +90,14 @@ La fiesta seguirá en Finca Los Pinos, Orihuela (Alicante).
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.586353519015!2d-0.9982486238659392!3d38.12655669181772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd639a114efff9e5%3A0xd0b1e906828f2a9d!2sFinca%20Los%20Pinos%20Orihuela!5e0!3m2!1ses!2ses!4v1718551002198!5m2!1ses!2ses" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </p> -->
 
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 15px;"></div>
 ## El tiempo
+<div style="margin-top: 25px;"></div>
 
 <!-- El Levante nos regala en noviembre días soleados que esperamos disfrutar. Aunque estaremos mayormente en interiores, si el clima acompaña, también aprovecharemos los hermosos exteriores. No olvides consultar la previsión meteorológica para venir preparado. -->
 
 Échale un ojo a la predicción meterorologica si eres friolero/a! La mayoría del tiempo estaremos en espacios interiores, pero nos tomaremos alguna que otra en exteriores si el tiempo lo permite. 
+<div style="margin-top: 15px;"></div>
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/38d24n0d81/crevillent/" data-label_1="CREVILLENTE" data-theme="pure" >CREVILLENTE WEATHER</a>
 <script>
@@ -119,6 +128,7 @@ This is the rough plan:
 
 <div style="margin-top: 15px;"></div>
 ## Desde Murcia/Elche al evento
+<div style="margin-top: 25px;"></div>
 
 ### Autobuses 🚎
 Si no te apetece coger el coche (el parking en Crevillente puede ser complicado) ofreceremos servicio de autobús tanto para la ida como para la vuelta del evento.
@@ -141,9 +151,14 @@ En el caso de necesitar un taxi:
 - __Radio Taxi Elche__: <a href="tel:+34965427777">+34 965427777</a>
 - __Radio Taxi Orihuela__: <a href="tel:+34966740202">+34 966740202</a>
 
-<div id="transporte"></div>
+<div id="planviaje"></div>
 --------------------------
-# ¿Cómo llegar a Murcia/Elche?
+<div style="margin-top: -35px;"></div>
+##### __Plan de viaje__ 🛫📍🏨
+<div style="margin-top: 5px;"></div>
+
+# Viajar a Murcia/Elche
+<div style="margin-top: 25px;"></div>
 
 <!-- &nbsp;  -->
 
@@ -188,9 +203,12 @@ We’ve googled this so you don’t have to. It’s a 10-12 hr drive from London
 
 <div id="alojamiento"></div>
 --------------------------
-# Alojamiento / Estancia
+<div style="margin-top: -35px;"></div>
+##### __Plan de viaje__ 🛫📍🏨
+<div style="margin-top: 5px;"></div>
 
-<!-- &nbsp;  -->
+# Alojamiento
+<div style="margin-top: 25px;"></div>
 
 There are lots of good accommodation options nearby, some walkable from the venue, and many within a 20-25 min drive radius between nearby Montélimar and Valence. 
 
@@ -219,22 +237,68 @@ However, don't hang about too long on booking - it's peak summer season in Franc
 - **[Booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQ_YAQPoAQGIAgGoAgO4AoS-tZIGwAIB0gIkNzZjMjM1Y2YtM2FjYS00ZTcwLWE2NTAtMTA0NGMzNTEwNTRk2AIE4AIB&sid=84dbf8d58c741ae2b7e3d8e255230e9f&aid=304142&ss=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&ssne=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&ssne_untouched=26270+Rue+Louis+Fereyre%2C+Loriol-sur-Dr%C3%B4me%2C+France&lang=en-gb&latitude=44.7541476&longitude=4.8175266&checkin=2022-07-08&checkout=2022-07-10&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure&nflt=oos%3D1&order=distance_from_search) and [Airbnb](https://www.airbnb.com/s/Saulce~sur~Rhône/homes?place_id=ChIJO6q-k4RGtRIRcv4ZRcSqyuo&refinement_paths[]=%2Fhomes&checkin=2022-07-08&checkout=2022-07-10&adults=2&search_type=user_map_move&tab_id=home_tab&query=Saulce-sur-Rhône&flexible_trip_lengths[]=weekend_trip&date_picker_type=calendar&ne_lat=44.845739525943884&ne_lng=5.098128874917336&sw_lat=44.51843933386909&sw_lng=4.438399837483473&zoom=10&search_by_map=true)** have a few places available
 - **Local ["Gites"](https://www.gites-de-france.com/en)** are less likely to be on the major booking platforms, but will probably give you a more authentic French country experience
 
-<div id="musica"></div>
 --------------------------
-# Música 🪩
+<div style="margin-top: -35px;"></div>
+##### __Plan de viaje__ 🛫📍🏨
+<div style="margin-top: 5px;"></div>
+
+# Estancia
+<div style="margin-top: 25px;"></div>
+
+There are lots of good accommodation options nearby, some walkable from the venue, and many within a 20-25 min drive radius between nearby Montélimar and Valence. 
+
+|[![15 and 30 min drivetimes](../assets/images/15-and-30-min-drivetimes.png){: width="250" }](../assets/images/15-and-30-min-drivetimes.png)|
+|:---:|
+|*15 and 30 min drivetimes from the venue*|
+
+
+However, don't hang about too long on booking - it's peak summer season in France!
+
+<div id="otros"></div>
+--------------------------
+<div style="margin-top: -35px;"></div>
+##### __Otros__ 🪩🎁
+<div style="margin-top: 5px;"></div>
+
+# Música
+<div style="margin-top: 25px;"></div>
 
 ¿Hay alguna canción que te gustarīa que sonase en nuestra boda? <br />
-Únete a la playlist y añade las que quieras! 
-<!-- <div style="text-align: center;">
-</div> -->
+Únete a la playlist y añade las que quieras!
+<div style="margin-top: 15px;"></div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+--------------------------
+<div style="margin-top: -35px;"></div>
+##### __Otros__ 🪩🎁
+<div style="margin-top: 5px;"></div>
+
+# Regalos
+<div style="margin-top: 25px;"></div>
+
+Poder compartir con vosotros este día ya es el mejor regalo. <br /> Si además queréis formar parte de nuestra luna de miel, podéis hacerlo de la siguiente forma:
+<div style="margin-top: 15px;"></div>
+
+<div align="center">
+<strong>🇪🇸 ES48 2100 3356 6422 0018 7835</strong>
+</div>
+
+<div align="center">
+<strong>🇳🇱 NL44 ABNA 0871 8787 39</strong>
+</div>
+
 <div id="contacto"></div>
 --------------------------
-# Contacto 📞
+<div style="margin-top: -35px;"></div>
+##### 📞
+<div style="margin-top: 5px;"></div>
 
-Para cualquier duda o consulta, contacta con nosotros:
+# Contacto
+<div style="margin-top: 25px;"></div>
+
+Para cualquier duda o consulta, no dudes en contactar con nosotros:
+<div style="margin-top: 15px;"></div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; min-width: 300px; max-width: 40%; margin: 10px;">

@@ -5,12 +5,14 @@ navigation_header:
     url: /#confirmacion
   - title: Detalles del Día
     url: /#detalles
-  - title: ¿Cómo llegar a Murcia/Elche?
-    url: /#transporte
-  - title: Alojamiento / Estancia
-    url: /#alojamiento
-  - title: Música
-    url: /#musica
+  - title: Plan de viaje
+    url: /#planviaje
+  # - title: Alojamiento / Estancia
+  #   url: /#alojamiento
+  - title: Otros
+    url: /#otros
+  # - title: Música
+  #   url: /#musica
   - title: Contacto
     url: /#contacto
   - title: 🇪🇸
