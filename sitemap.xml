@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://clarafede.github.io/wdng/accommodation/</loc>
-</url>
-<url>
-<loc>https://clarafede.github.io/wdng/agenda/</loc>
-</url>
-<url>
-<loc>https://clarafede.github.io/wdng/faq/</loc>
-</url>
-<url>
-<loc>https://clarafede.github.io/wdng/gifts/</loc>
-</url>
-<url>
 <loc>https://clarafede.github.io/wdng/en/</loc>
 </url>
 <url>
@@ -20,14 +8,5 @@
 </url>
 <url>
 <loc>https://clarafede.github.io/wdng/photos/</loc>
-</url>
-<url>
-<loc>https://clarafede.github.io/wdng/rsvp/</loc>
-</url>
-<url>
-<loc>https://clarafede.github.io/wdng/travel/</loc>
-</url>
-<url>
-<loc>https://clarafede.github.io/wdng/venue/</loc>
 </url>
 </urlset>
