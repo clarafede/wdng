@@ -12,8 +12,8 @@ lang: es
 </a>
 <script>
 document.getElementById('scrollToTopButton').addEventListener('click', function(event) {
-    event.preventDefault(); // Prevent the default anchor behavior
-    window.scrollTo({top: 0, behavior: 'smooth'}); // Scroll to the top of the page smoothly
+    event.preventDefault();
+    window.scrollTo({top: 0, behavior: 'smooth'});
 });
 </script>
 
@@ -24,7 +24,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 <script>
   setTimeout(function() {
     document.getElementById('feedbackDialog').style.display = 'none';
-  }, 2500); // 10000 milliseconds = 10 seconds
+  }, 2500);
 </script>
 
 <p style='text-align: center'>
@@ -32,7 +32,6 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 </p>
 
 <p style='text-align: center'>
-<!-- <b>Acompáñanos en el día de nuestra boda!</b> -->
 <b>¡Nos encantaría que vinieras a celebrar este día tan especial con nosotros!</b>
 </p>
 
@@ -44,8 +43,6 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 <div style="margin-top: 0px;"></div>
 # Confirmación
 <div style="margin-top: 10px;"></div>
-
-<!-- ### Confirmación de Asistencia -->
 
 ¡Tu presencia es muy importante para nosotros! 
 
@@ -63,8 +60,6 @@ Por favor, confirma tu asistencia y otros detalles importantes antes del **X de 
 # Detalles del Día
 <div style="margin-top: 10px;"></div>
 
-<!-- ## Localizaciones
-<div style="margin-top: 15px;"></div> -->
 Te esperamos a las 12:30h en la Parroquia Nuestra Señora de Belén de Crevillente (Alicante). Luego seguiremos la fiesta hasta bien entrada la noche en la Finca Los Pinos de Orihuela (Alicante), a unos 25 minutos en coche desde Crevillente.  
 <div style="margin-top: 20px;"></div>
 
@@ -80,7 +75,6 @@ Te esperamos a las 12:30h en la Parroquia Nuestra Señora de Belén de Crevillen
 </div>
 
 <div style="margin-top: 15px;"></div>
-<!-- ### Desde Elche/Murcia al evento -->
 <h3><u>Desde Elche/Murcia al evento</u></h3>
 
 #### 🚎 Autobuses
@@ -113,9 +107,7 @@ Si decides coger el coche, todo está muy bien conectado a través de la autoví
 
 
 <div style="margin-top: 15px;"></div>
-<!-- ## El tiempo -->
 <h3><u>El tiempo</u></h3>
-<!-- <div style="margin-top: 15px;"></div> -->
 
 ¡Échale un ojo a la predicción meterorologica! La mayoría del tiempo estaremos en espacios interiores, pero si el tiempo lo permite, parte de la celebración será en exterior.
 <div style="margin-top: 15px;"></div>
@@ -140,7 +132,6 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
 
 <div style="margin-top: 15px;"></div>
 
-<!-- #### Elche -->
 <h3><u>Elche</u></h3>
 
 <ul>
@@ -153,7 +144,6 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
 </ul>
 
 <div style="margin-top: -15px;"></div>
-<!-- #### Murcia -->
 <h3><u>Murcia</u></h3>
 
 <ul>
@@ -206,7 +196,6 @@ A parte de en coche, también podéis llegar a nuestra zona de las siguientes ma
 Si vas a quedarte algunos días más a parte del de la boda, aquí van algunas recomendaciones:
 <div style="margin-top: 15px;"></div>
 
-<!-- #### Elche -->
 <h3><u>Elche</u></h3>
 
 __¿Dónde comer?__
@@ -318,6 +307,3 @@ Para cualquier duda o consulta, no dudes en contactar con nosotros:
   </div>
   
 <div style="margin-top: 100px;"></div>
-<!-- <script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="5517436" class="tickcounter" style="display:block; left:0; width:100%; height:50px; position:relative; padding-top:0; margin:0 auto;" title="wdng" href="//www.tickcounter.com/">wdng</a> -->
-
-<!-- <div style="margin-top: 20px;"></div> -->

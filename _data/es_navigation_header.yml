@@ -1,18 +1,12 @@
 navigation_header:
-  # - title: Inicio
-  #   url: /
   - title: Confirmación
     url: /#confirmacion
   - title: Detalles del Día
     url: /#detalles
   - title: Plan de viaje
     url: /#planviaje
-  # - title: Alojamiento / Estancia
-  #   url: /#alojamiento
   - title: Otros
     url: /#otros
-  # - title: Música
-  #   url: /#musica
   - title: Contacto
     url: /#contacto
   - title: 🇪🇸

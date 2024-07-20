@@ -73,7 +73,7 @@ Aunque en el Levante solemos gozar de días soleados y agradables en Noviembre, 
 
 &nbsp; 
 
-## Desde Murcia/Elche al evento
+## Desde Elche/Murcia al evento
 
 ### Autobuses 🚎
 <b>Ida:</b>
@@ -84,7 +84,7 @@ Aunque en el Levante solemos gozar de días soleados y agradables en Noviembre, 
 - Orihuela → Murcia: 
 - Orihuela → Elche: 
 
-## ¿Cómo llegar a Murcia/Elche?
+## ¿Cómo llegar a Elche/Murcia?
 
 *There are lots of ways to get here, but we think many people will consider these options.*
 
