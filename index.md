@@ -44,7 +44,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 # Confirmación
 <div style="margin-top: 10px;"></div>
 
-¡Tu presencia es muy importante para nosotros! 
+<!-- ¡Tu presencia es muy importante para nosotros!  -->
 
 Por favor, confirma tu asistencia y otros detalles importantes antes del **X de Octubre de 2024** rellenando el siguiente formulario (una respuesta por persona):
 <div style="margin-top: 15px;"></div>
