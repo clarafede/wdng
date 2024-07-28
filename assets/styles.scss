@@ -65,6 +65,14 @@ $bodytype: (font-family: '"Fira Sans", sans-serif',
   italic: italic,
   cap-height: 0.5) !default;
 
+// Typography and layout adjustments
+div[style*="display: flex"] *,
+div[style*="display: flex"] table,
+div[style*="display: flex"] td,
+div[style*="display: flex"] tr,
+div[style*="display: flex"] th {
+  font-family: 'Fira Sans', sans-serif !important;
+}
 
 @import "sassline-base";
 

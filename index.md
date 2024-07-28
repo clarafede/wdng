@@ -266,9 +266,9 @@ Para cualquier duda o consulta, no dudes en contactar con nosotros:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; min-width: 300px; max-width: 40%; margin: 10px;">
-    <table style="width: 60%; margin: auto;">
+    <table style="width: 70%; margin: auto;">
       <tr>
-        <td><strong>Clara:</strong></td>
+        <td><strong>Clara:&nbsp;</strong></td>
         <td>🇪🇸 <a href="tel:+34695304944">+34 695304944</a></td>
       </tr>
       <tr>
@@ -286,9 +286,9 @@ Para cualquier duda o consulta, no dudes en contactar con nosotros:
     </table>
   </div>
   <div style="flex: 1; min-width: 300px; max-width: 40%; margin: 10px;">
-    <table style="width: 60%; margin: auto;">
+    <table style="width: 70%; margin: auto;">
       <tr>
-        <td><strong>Fede:&nbsp;</strong></td>
+        <td><strong>Fede:&nbsp;&nbsp;</strong></td>
         <td>🇪🇸 <a href="tel:+34617272064">+34 617272064</a></td>
       </tr>
       <tr>
