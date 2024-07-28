@@ -25,10 +25,27 @@ $white: #ffffff !default;
   font-weight: normal;
   font-style: normal;
 }
-$headingtype: (font-family: '"Hello Branch Regular", serif',
-regular: normal,
-bold: normal, // Adjust based on your font's available styles
-cap-height: 0.5) !default;
+
+$headingtype: (
+  font-family: '"Hello Branch Regular", serif',
+  regular: normal,
+  bold: normal,
+  cap-height: 0.5
+) !default;
+
+// Simulate a bolder appearance using text-shadow
+.bold-simulated {
+  font-family: 'Hello Branch Regular', serif;
+  text-shadow: 
+    0.25px 0 0 currentColor, 
+   -0.25px 0 0 currentColor, 
+    0 0.25px 0 currentColor, 
+    0 -0.25px 0 currentColor;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @extend .bold-simulated;
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 $bodytype: (font-family: '"Fira Sans", sans-serif',
