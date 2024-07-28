@@ -21,17 +21,16 @@ $white: #ffffff !default;
 // Define Hello Branch Regular font
 @font-face {
   font-family: 'Hello Branch Regular';
-  src: url('assets/fonts/HelloBranch-Regular.otf') format('opentype');
+  src: url('fonts/Branch.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
+$headingtype: (font-family: '"Hello Branch Regular", serif',
+regular: normal,
+bold: normal, // Adjust based on your font's available styles
+cap-height: 0.5) !default;
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-$headingtype: (font-family: '"Hello Branch Regular", serif',
-  regular: normal,
-  bold: normal, // Adjust based on your font's available styles
-  cap-height: 0.5) !default;
-
 $bodytype: (font-family: '"Fira Sans", sans-serif',
   regular: 300,
   bold: 400,
