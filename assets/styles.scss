@@ -18,25 +18,31 @@ $focusColour: #a8adac !default;
 $captionColour: #a8adac !default;
 $white: #ffffff !default;
 
-//Choosing the fonts
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-$headingtype: (font-family: '"Josefin Sans", sans-serif',
-  regular: 300,
-  bold: 300,
+// Define Hello Branch Regular font
+@font-face {
+  font-family: 'Hello Branch Regular';
+  src: url('assets/fonts/HelloBranch-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+$headingtype: (font-family: '"Hello Branch Regular", serif',
+  regular: normal,
+  bold: normal, // Adjust based on your font's available styles
   cap-height: 0.5) !default;
 
-$bodytype: (font-family: '"Josefin Sans", sans-serif',
+$bodytype: (font-family: '"Fira Sans", sans-serif',
   regular: 300,
-  bold: 500,
+  bold: 400,
   italic: italic,
   cap-height: 0.5) !default;
-
 
 
 @import "sassline-base";
 
 :root {
-  font-size: 80%; // 0px                    ~ Mobile first
+  font-size: 75%; // 0px                    ~ Mobile first
 
   @include breakpoint(break-1) {
     // 695px   ~ Small tablet up
