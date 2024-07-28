@@ -1,8 +1,8 @@
 ---
 title: Clara & Fede &ndash; Nos casamos!
 description: 💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda.
-image: "../assets/images/main4.jpg"
-feature_image: "../assets/images/main4.jpg"
+image: "../assets/images/main4e.jpg"
+feature_image: "../assets/images/main4e.jpg"
 lang: en
 ---
 

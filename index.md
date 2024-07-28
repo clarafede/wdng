@@ -1,8 +1,8 @@
 ---
 title: Clara & Fede &ndash; ¡Nos casamos!
 description: 💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda.
-image: "assets/images/main4.jpg"
-feature_image: "assets/images/main4.jpg"
+image: "assets/images/main4e.jpg"
+feature_image: "assets/images/main4e.jpg"
 logo: "assets/logos/logo.svg"
 lang: es
 ---
@@ -17,7 +17,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 });
 </script>
 
-<div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 310px;">
+<div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 320px;">
   <p style="margin: 0; font-size: 14px;">Si algo no funciona, escríbele a Fede 😊</p>
   <button onclick="document.getElementById('feedbackDialog').style.display='none'" style="border: none; background-color: transparent; color: #000000; font-size: 24px; cursor: pointer;">&times;</button>
 </div>
