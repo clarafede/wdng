@@ -37,10 +37,14 @@ $headingtype: (
 .bold-simulated {
   font-family: 'Hello Branch Regular', serif;
   text-shadow: 
-    0.25px 0 0 currentColor, 
-   -0.25px 0 0 currentColor, 
-    0 0.25px 0 currentColor, 
-    0 -0.25px 0 currentColor;
+    0.125px 0 0 currentColor, 
+   -0.125px 0 0 currentColor, 
+    0 0.125px 0 currentColor, 
+    0 -0.125px 0 currentColor,
+    0.125px 0.125px 0 currentColor, 
+   -0.125px -0.125px 0 currentColor, 
+    0.125px -0.125px 0 currentColor, 
+   -0.125px 0.125px 0 currentColor;
 }
 
 h1, h2, h3, h4, h5, h6 {
