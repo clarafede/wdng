@@ -49,7 +49,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 Por favor, confirma tu asistencia y otros detalles importantes antes del **X de Octubre de 2024** rellenando el siguiente formulario (una respuesta por persona):
 <div style="margin-top: 15px;"></div>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="920" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
 <div id="detalles"></div>
 --------------------------
@@ -100,6 +100,8 @@ En el caso de necesitar un taxi, puedes probar suerte con los siguientes teléfo
 - __Radio Taxi Murcia__: <a href="tel:+34968248800">+34 968248800</a>
 - __Radio Taxi Elche__: <a href="tel:+34965427777">+34 965427777</a>
 - __Radio Taxi Orihuela__: <a href="tel:+34966740202">+34 966740202</a> (PREGUNTAR A PILAR)
+
+Opciones de Uber/Cabify/etc.
 
 <!-- ### 🚗 Coche 
 
@@ -174,15 +176,15 @@ A parte de en coche, también podéis llegar a nuestra zona de las siguientes ma
 
 #### ✈️ En avión 
 
-- __[Aeropuerto de Alicante-Elche Miguel Hernández](https://maps.app.goo.gl/D1qDbhC29rnDk5xK8)__
+- Elche: __[Aeropuerto de Alicante-Elche Miguel Hernández](https://maps.app.goo.gl/D1qDbhC29rnDk5xK8)__
 
-- __[Aeropuerto Internacional Región de Murcia](https://maps.app.goo.gl/SDqXM27MGrHeqQwc9)__
+- Murcia: __[Aeropuerto Internacional Región de Murcia](https://maps.app.goo.gl/SDqXM27MGrHeqQwc9)__
 
 #### 🚄 En tren
 
-- __[Estación Elx Parc](https://maps.app.goo.gl/p7xb2tobo8PikV2d8)__
+- Elche: __[Estación Elx Parc](https://maps.app.goo.gl/p7xb2tobo8PikV2d8)__
 
-- __[Estación Murcia del Carmen](https://maps.app.goo.gl/H8zhooP1LvTrUPJG9)__
+- Murcia: __[Estación Murcia del Carmen](https://maps.app.goo.gl/H8zhooP1LvTrUPJG9)__
 
 
 --------------------------
@@ -193,7 +195,7 @@ A parte de en coche, también podéis llegar a nuestra zona de las siguientes ma
 # Estancia
 <div style="margin-top: 10px;"></div>
 
-Si vas a quedarte algunos días más a parte del de la boda, aquí van algunas recomendaciones:
+Si vienes de fuera y vas a quedarte algunos días más por la zona, aquí van algunas recomendaciones:
 <div style="margin-top: 15px;"></div>
 
 <h3><u>Elche</u></h3>
