@@ -34,20 +34,22 @@ $headingtype: (
 ) !default;
 
 // Simulate a bolder appearance using text-shadow
+$shadow-offset: 0.2px;
+
 .bold-simulated {
   font-family: 'Hello Branch Regular', serif;
   text-shadow: 
-    0.125px 0 0 currentColor, 
-   -0.125px 0 0 currentColor, 
-    0 0.125px 0 currentColor, 
-    0 -0.125px 0 currentColor,
-    0.125px 0.125px 0 currentColor, 
-   -0.125px -0.125px 0 currentColor, 
-    0.125px -0.125px 0 currentColor, 
-   -0.125px 0.125px 0 currentColor;
+    $shadow-offset 0 0 currentColor, 
+   -$shadow-offset 0 0 currentColor, 
+    0 $shadow-offset 0 currentColor, 
+    0 -$shadow-offset 0 currentColor,
+    $shadow-offset $shadow-offset 0 currentColor, 
+   -$shadow-offset -$shadow-offset 0 currentColor, 
+    $shadow-offset -$shadow-offset 0 currentColor, 
+   -$shadow-offset $shadow-offset 0 currentColor;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   @extend .bold-simulated;
 }
 

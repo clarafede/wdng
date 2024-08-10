@@ -72,6 +72,22 @@ a {
     font-weight: map-get($headingtype, bold);
   }
 
+  // h1 {
+  //   color: $headingColour;
+  //   font-family: unquote(map-get($headingtype, font-family));
+  //   font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
+  //   font-style: normal;
+  //   font-weight: map-get($headingtype, bold);
+  // }
+
+  // h2, h3, h4, h5, h6 {
+  //   color: $headingColour;
+  //   font-family: unquote(map-get($bodytype, font-family));
+  //   font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
+  //   font-style: normal;
+  //   font-weight: map-get($bodytype, bold);
+  // }
+
   // Heading level 1.
   h1, .alpha {
     @include sassline($fontsize: alpha, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);

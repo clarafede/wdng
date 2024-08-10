@@ -77,11 +77,11 @@ Te esperamos a las 12:30h en la Parroquia Nuestra Señora de Belén de Crevillen
 <div style="margin-top: 15px;"></div>
 <h3><u>Desde Elche/Murcia al evento</u></h3>
 
-#### 🚎 Autobuses
+##### 🚎 Autobuses
 
-¡Recuerda reservar tu plaza en el formulario de confirmación si quieres dejarte el coche en casa!
+¡Recuerda reservar tu plaza en el formulario de confirmación si quieres dejarte el coche en casa! Pronto daremos más detalles sobre los puntnos de salida/llegada y los horarios.
 
-Ida:
+<!-- Ida:
 <div style="margin-top: -15px;"></div>
 - __Elche → Crevillente__: Salida a las X en X
 - __Murcia → Crevillente__: Salida a las X en X
@@ -90,18 +90,18 @@ Ida:
 Vuelta:
 <div style="margin-top: -15px;"></div>
 - __Orihuela → Crevillente → Elche__: Salida a las X en X
-- __Orihuela → Murcia__: Salida a las X en X
+- __Orihuela → Murcia__: Salida a las X en X -->
 
-#### 🚕 Taxi 
+##### 🚕 Taxi 
 
-En el caso de necesitar un taxi, puedes probar suerte con los siguientes teléfonos:
+Si necesitas un taxi, puedes contactar con los siguientes números:
 
 <div style="margin-top: -15px;"></div>
 - __Radio Taxi Murcia__: <a href="tel:+34968248800">+34 968248800</a>
 - __Radio Taxi Elche__: <a href="tel:+34965427777">+34 965427777</a>
 - __Radio Taxi Orihuela__: <a href="tel:+34966740202">+34 966740202</a> (PREGUNTAR A PILAR)
 
-Opciones de Uber/Cabify/etc.
+La disponibilidad de otros servicios como Uber o Cabify puede variar dependiendo de la ciudad.
 
 <!-- ### 🚗 Coche 
 
@@ -130,7 +130,7 @@ Si decides coger el coche, todo está muy bien conectado a través de la autoví
 # Alojamiento
 <div style="margin-top: 10px;"></div>
 
-Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares de la ceremonia y la celebración. Por eso, te proponemos algunas opciones en Elche y Murcia.
+Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares de la ceremonia y la celebración. Por eso, te proponemos algunas opciones en Elche y Murcia cerca de los puntos de salida/llegada de los autobuses.
 
 <div style="margin-top: 15px;"></div>
 
@@ -139,7 +139,7 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
 <ul>
   <li><strong><a href="https://www.melia.com/es/hoteles/espana/elche/hotel-elche-centro-by-melia">Hotel Elche Centro</a></strong>
     <ul style="margin-left: -5px;">
-      <li>A 6 minutos andando del punto de recogida y llegada.</li>
+      <!-- <li>A 6 minutos andando del punto de recogida y llegada.</li> -->
       <li>En pleno centro de Elche.</li>
     </ul>
   </li>
@@ -151,14 +151,14 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
 <ul>
   <li><strong><a href="https://www.sercotelhoteles.com/es/hotel-jc1">Sercotel JC1 Murcia</a></strong>
     <ul style="margin-left: -5px;"> <!-- Adjust the margin-left value as needed -->
-      <li>A X minutos andando del punto de recogida y llegada.</li>
-      <li>Bien comunicado con Murcia centro con el tranvía.</li>
+      <!-- <li>A X minutos andando del punto de recogida y llegada.</li> -->
+      <!-- <li>Bien comunicado con Murcia centro con el tranvía.</li> -->
     </ul>
   </li>
   <li><strong><a href="https://www.marriott.com/es/hotels/mjvmu-ac-hotel-murcia/overview/">AC Hotel Murcia</a></strong>: 
     <ul style="margin-left: -5px;"> <!-- Adjust the margin-left value as needed -->
-      <li>A X minutos andando del punto de recogida y llegada.</li>
-      <li>Bien comunicado con Murcia centro con el tranvía.</li>
+      <!-- <li>A X minutos andando del punto de recogida y llegada.</li> -->
+      <li>Ambos bien comunicados con Murcia centro con el tranvía.</li>
     </ul>
   </li>
 </ul>
@@ -174,17 +174,17 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
 A parte de en coche, también podéis llegar a nuestra zona de las siguientes maneras:
 <div style="margin-top: 15px;"></div>
 
-#### ✈️ En avión 
+##### ✈️ En avión 
 
-- Elche: __[Aeropuerto de Alicante-Elche Miguel Hernández](https://maps.app.goo.gl/D1qDbhC29rnDk5xK8)__
+- **Elche**: __[Aeropuerto de Alicante-Elche Miguel Hernández](https://maps.app.goo.gl/D1qDbhC29rnDk5xK8)__
 
-- Murcia: __[Aeropuerto Internacional Región de Murcia](https://maps.app.goo.gl/SDqXM27MGrHeqQwc9)__
+- **Murcia**: __[Aeropuerto Internacional Región de Murcia](https://maps.app.goo.gl/SDqXM27MGrHeqQwc9)__
 
-#### 🚄 En tren
+##### 🚄 En tren
 
-- Elche: __[Estación Elx Parc](https://maps.app.goo.gl/p7xb2tobo8PikV2d8)__
+- **Elche**: __[Estación Elx Parc](https://maps.app.goo.gl/p7xb2tobo8PikV2d8)__
 
-- Murcia: __[Estación Murcia del Carmen](https://maps.app.goo.gl/H8zhooP1LvTrUPJG9)__
+- **Murcia**: __[Estación Murcia del Carmen](https://maps.app.goo.gl/H8zhooP1LvTrUPJG9)__
 
 
 --------------------------
@@ -200,25 +200,53 @@ Si vienes de fuera y vas a quedarte algunos días más por la zona, aquí van al
 
 <h3><u>Elche</u></h3>
 
-__¿Dónde comer?__
+- **Palmeral de Elche**: Pasea por este extenso palmeral, declarado Patrimonio de la Humanidad, que cuenta con más de 200,000 palmeras.
+
+- **Basílica de Santa María**: Visita esta impresionante basílica barroca, conocida por albergar el Misteri d'Elx, un drama sacro-lírico.
+
+- **Museo Arqueológico y de Historia de Elche (MAHE)**: Explora la historia de Elche desde la prehistoria hasta la época moderna.
+
+- **Huerto del Cura**: Disfruta de este jardín botánico dentro del Palmeral, famoso por su palmera imperial de siete brazos.
+
+- **Centro Histórico**: Recorre el casco antiguo de Elche, con sus calles estrechas, plazas encantadoras y edificios históricos.
+
+- **Baños Árabes y Museo de la Festa**: Visita estos baños del siglo XII y el museo dedicado al Misteri d'Elx.
+
+- **Parque Municipal**: Relájate en este parque con lagos, zonas ajardinadas y áreas de recreo.
+
+<!-- __¿Dónde comer?__
 <div style="margin-top: -15px;"></div>
 - 
 
 __¿Qué hacer?__
 <div style="margin-top: -15px;"></div>
-- 
+-  -->
 
 <div style="margin-top: -15px;"></div>
 <!-- #### Murcia -->
 <h3><u>Murcia</u></h3>
 
-__¿Dónde comer?__
+- **Catedral de Murcia**: Visita la Catedral de Santa María con sus estilos gótico, renacentista y barroco. Sube a la torre para vistas panorámicas.
+
+- **Plaza del Cardenal Belluga**: Explora la plaza central, donde verás el Palacio Episcopal y la fachada barroca de la catedral.
+
+- **Real Casino de Murcia**: Visita este club social histórico con una arquitectura interior impresionante, mezcla de modernismo y neoclasicismo.
+
+- **Museo Salzillo**: Descubre las esculturas barrocas de Francisco Salzillo, especialmente las relacionadas con la Semana Santa.
+
+- **Paseo por el casco antiguo**: Recorre las calles del casco antiguo, lleno de plazas, iglesias y edificios históricos.
+
+- **Almuerzo en la Plaza de las Flores**: Disfruta de tapas en uno de los restaurantes o bares de esta animada plaza.
+
+- **Paseo por el Río Segura**: Al atardecer, pasea por el río Segura y cruza algunos de sus puentes históricos, como el Puente de los Peligros.
+
+<!-- __¿Dónde comer?__
 <div style="margin-top: -15px;"></div>
 - 
 
 __¿Qué hacer?__
 <div style="margin-top: -15px;"></div>
-- 
+-  -->
 
 <div id="otros"></div>
 --------------------------
