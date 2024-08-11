@@ -211,7 +211,8 @@ __¿Qué hacer?__
 
 __¿Dónde comer?__
 <div style="margin-top: -15px;"></div>
-- (PREGUNTAR A FARA)
+- **Para picar**: La Olivereta, Tabarca, Casa Zarracina, Chico Calla, Marcelino: Vinos y Enjundias, Garaje o La Lateria. 
+- **Comer**: Mestizaje o Restaurante Parres.
 
 <div style="margin-top: -15px;"></div>
 <!-- #### Murcia -->
