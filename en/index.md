@@ -1,5 +1,5 @@
 ---
-title: 
+title: We're getting married!
 description: 💍 Sábado 23 de Noviembre, 2024 en Crevillente, Alicante. Aquí encontrarás toda la información que necesitas sobre el día de nuestra boda.
 image: "../assets/images/main4e.jpg"
 feature_image: "../assets/images/main4e.jpg"
@@ -26,10 +26,6 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
     document.getElementById('feedbackDialog').style.display = 'none';
   }, 2500);
 </script>
-
-<div style="margin-top: -35px;"></div>
-# Clara & Fede &ndash; We're getting married!
-<div style="margin-top: 20px;"></div>
 
 <p style='text-align: center'>
 Save the Date! On <b>Saturday, November 23rd, 2024</b> at <b>12:30 PM</b>, we will celebrate our marriage at Parroquia Nuestra Señora de Belén in Crevillent, Alicante. 
