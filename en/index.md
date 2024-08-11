@@ -17,7 +17,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 });
 </script>
 
-<div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 330px;">
+<div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 350px;">
   <p style="margin: 0; font-size: 14px;">If something isn’t working, contact Fede! 😊</p>
   <button onclick="document.getElementById('feedbackDialog').style.display='none'" style="border: none; background-color: transparent; color: #000000; font-size: 24px; cursor: pointer;">&times;</button>
 </div>
