@@ -28,7 +28,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 </script>
 
 <p style='text-align: center'>
-¡Apunta! El <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:30h</b>, celebramos nuestra boda en la <b>Parroquia Nuestra Señora de Belén</b>, Crevillente, Alicante.
+¡Apunta! El <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:30h</b>, celebramos nuestra boda en la <b>Parroquia Nuestra Señora de Belén</b> en Crevillente, Alicante.
 </p>
 
 <p style='text-align: center'>
@@ -46,7 +46,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 
 <!-- ¡Tu presencia es muy importante para nosotros!  -->
 
-Por favor, confirma tu asistencia y otros detalles importantes antes del **X de Octubre de 2024** rellenando el siguiente formulario (una respuesta por persona):
+Por favor, confirma tu asistencia y otros detalles importantes antes del **31 de Octubre de 2024** rellenando el siguiente formulario (una respuesta por persona):
 <div style="margin-top: 15px;"></div>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
@@ -60,7 +60,7 @@ Por favor, confirma tu asistencia y otros detalles importantes antes del **X de 
 # Detalles del Día
 <div style="margin-top: 10px;"></div>
 
-Te esperamos a las 12:30h en la Parroquia Nuestra Señora de Belén de Crevillente (Alicante). Luego seguiremos la fiesta hasta bien entrada la noche en la Finca Los Pinos de Orihuela (Alicante), a unos 25 minutos en coche desde Crevillente.  
+Te esperamos a las 12:30h en la Parroquia Nuestra Señora de Belén de Crevillente (Alicante). Luego seguiremos la fiesta hasta bien entrada la noche en la Finca Los Pinos de Orihuela (Alicante).  
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
@@ -101,7 +101,7 @@ Si necesitas un taxi, puedes contactar con los siguientes números:
 - __Radio Taxi Elche__: <a href="tel:+34965427777">+34 965427777</a>
 - __Radio Taxi Orihuela__: <a href="tel:+34966740202">+34 966740202</a> (PREGUNTAR A PILAR)
 
-La disponibilidad de otros servicios como Uber o Cabify puede variar dependiendo de la ciudad.
+*_La disponibilidad de otros servicios como Uber o Cabify puede variar dependiendo de la ciudad._
 
 <!-- ### 🚗 Coche 
 
@@ -140,7 +140,8 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
   <li><strong><a href="https://www.melia.com/es/hoteles/espana/elche/hotel-elche-centro-by-melia">Hotel Elche Centro</a></strong>
     <ul style="margin-left: -5px;">
       <!-- <li>A 6 minutos andando del punto de recogida y llegada.</li> -->
-      <li>En pleno centro de Elche.</li>
+      <li>Reserva: (PREGUNTAR A PILAR) </li>
+      <!-- <li>Precio estimado: </li> -->
     </ul>
   </li>
 </ul>
@@ -153,12 +154,14 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
     <ul style="margin-left: -5px;"> <!-- Adjust the margin-left value as needed -->
       <!-- <li>A X minutos andando del punto de recogida y llegada.</li> -->
       <!-- <li>Bien comunicado con Murcia centro con el tranvía.</li> -->
+      <li>Reserva: (PREGUNTAR A PILAR) </li>
     </ul>
   </li>
   <li><strong><a href="https://www.marriott.com/es/hotels/mjvmu-ac-hotel-murcia/overview/">AC Hotel Murcia</a></strong>: 
     <ul style="margin-left: -5px;"> <!-- Adjust the margin-left value as needed -->
       <!-- <li>A X minutos andando del punto de recogida y llegada.</li> -->
-      <li>Ambos bien comunicados con Murcia centro con el tranvía.</li>
+      <!-- <li>Ambos bien comunicados con Murcia centro con el tranvía.</li> -->
+      <li>Reserva: (PREGUNTAR A PILAR) </li>
     </ul>
   </li>
 </ul>
@@ -171,7 +174,7 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
 # Viajar a Elche/Murcia
 <div style="margin-top: 10px;"></div>
 
-A parte de en coche, también podéis llegar a nuestra zona de las siguientes maneras:
+Si vienes de fuera, además de en coche, puedes llegar a nuestra zona de las siguientes maneras:
 <div style="margin-top: 15px;"></div>
 
 ##### ✈️ En avión 
@@ -195,58 +198,36 @@ A parte de en coche, también podéis llegar a nuestra zona de las siguientes ma
 # Estancia
 <div style="margin-top: 10px;"></div>
 
-Si vienes de fuera y vas a quedarte algunos días más por la zona, aquí van algunas recomendaciones:
+Si vas a quedarte algunos días más por la zona, aquí os dejamos algunas recomendaciones:
 <div style="margin-top: 15px;"></div>
 
 <h3><u>Elche</u></h3>
 
-- **Palmeral de Elche**: Pasea por este extenso palmeral, declarado Patrimonio de la Humanidad, que cuenta con más de 200,000 palmeras.
-
-- **Basílica de Santa María**: Visita esta impresionante basílica barroca, conocida por albergar el Misteri d'Elx, un drama sacro-lírico.
-
-- **Museo Arqueológico y de Historia de Elche (MAHE)**: Explora la historia de Elche desde la prehistoria hasta la época moderna.
-
-- **Huerto del Cura**: Disfruta de este jardín botánico dentro del Palmeral, famoso por su palmera imperial de siete brazos.
-
-- **Centro Histórico**: Recorre el casco antiguo de Elche, con sus calles estrechas, plazas encantadoras y edificios históricos.
-
-- **Baños Árabes y Museo de la Festa**: Visita estos baños del siglo XII y el museo dedicado al Misteri d'Elx.
-
-- **Parque Municipal**: Relájate en este parque con lagos, zonas ajardinadas y áreas de recreo.
-
-<!-- __¿Dónde comer?__
-<div style="margin-top: -15px;"></div>
-- 
-
 __¿Qué hacer?__
 <div style="margin-top: -15px;"></div>
--  -->
+- **Centro histórico**: Recorre el casco antiguo de Elche, con sus calles estrechas, plazas encantadoras y edificios históricos.
+- **Basílica de Santa María**: Visita esta impresionante basílica barroca, conocida por albergar el Misteri d'Elx.
+- **Palmeral de Elche**: Pasea por este extenso palmeral, declarado Patrimonio de la Humanidad, que cuenta con más de 200,000 palmeras.
+
+__¿Dónde comer?__
+<div style="margin-top: -15px;"></div>
+- (PREGUNTAR A FARA)
 
 <div style="margin-top: -15px;"></div>
 <!-- #### Murcia -->
 <h3><u>Murcia</u></h3>
 
-- **Catedral de Murcia**: Visita la Catedral de Santa María con sus estilos gótico, renacentista y barroco. Sube a la torre para vistas panorámicas.
-
-- **Plaza del Cardenal Belluga**: Explora la plaza central, donde verás el Palacio Episcopal y la fachada barroca de la catedral.
-
-- **Real Casino de Murcia**: Visita este club social histórico con una arquitectura interior impresionante, mezcla de modernismo y neoclasicismo.
-
-- **Museo Salzillo**: Descubre las esculturas barrocas de Francisco Salzillo, especialmente las relacionadas con la Semana Santa.
-
-- **Paseo por el casco antiguo**: Recorre las calles del casco antiguo, lleno de plazas, iglesias y edificios históricos.
-
-- **Almuerzo en la Plaza de las Flores**: Disfruta de tapas en uno de los restaurantes o bares de esta animada plaza.
-
-- **Paseo por el Río Segura**: Al atardecer, pasea por el río Segura y cruza algunos de sus puentes históricos, como el Puente de los Peligros.
-
-<!-- __¿Dónde comer?__
-<div style="margin-top: -15px;"></div>
-- 
-
 __¿Qué hacer?__
 <div style="margin-top: -15px;"></div>
--  -->
+
+- **Casco histórico**: Recorre las calles del casco antiguo, lleno de plazas, iglesias y edificios históricos.
+- **Catedral de Murcia**: Visita la Catedral de Santa María con sus estilos gótico, renacentista y barroco. Sube a la torre para vistas panorámicas.
+- **Plaza del Cardenal Belluga**: Explora la plaza central, donde verás el Palacio Episcopal y la fachada barroca de la catedral.
+
+__¿Dónde comer?__
+<div style="margin-top: -15px;"></div>
+- **Plaza de las Flores**: Disfruta de tapas en uno de los restaurantes o bares de esta plaza tan popular en Murcia.
+
 
 <div id="otros"></div>
 --------------------------

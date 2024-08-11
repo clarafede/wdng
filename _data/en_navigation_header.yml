@@ -1,19 +1,13 @@
 navigation_header:
-  # - title: "Home"
-  #   url: /en/
-  - title: "Questionnaire"
-    url: /en/#questionnaire
-  - title: "Location"
-    url: /en/#location
-  - title: "Transport"
-    url: /en/#transport
-  - title: "Agenda"
-    url: /en/#agenda
-  - title: "Accommodation"
-    url: /en/#accommodation
-  - title: "Music"
-    url: /en/#music
-  - title: "Contact"
+  - title: "RSVP"
+    url: /en/#rsvp
+  - title: "Planning of the Day"
+    url: /en/#planning
+  - title: "The trip"
+    url: /en/#trip
+  - title: "Misc."
+    url: /en/#others
+  - title: "Contact us"
     url: /en/#contact
   - title: "🇪🇸"
     url: /
