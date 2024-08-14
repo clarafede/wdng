@@ -99,7 +99,7 @@ Si necesitas un taxi, puedes contactar con los siguientes números:
 <div style="margin-top: -15px;"></div>
 - __Radio Taxi Murcia__: <a href="tel:+34968248800">+34 968248800</a>
 - __Radio Taxi Elche__: <a href="tel:+34965427777">+34 965427777</a>
-- __Radio Taxi Orihuela__: <a href="tel:+34966740202">+34 966740202</a> (PREGUNTAR A PILAR)
+- __Radio Taxi Orihuela__: <a href="tel:+34966740202">+34 966740202</a>
 
 *_La disponibilidad de otros servicios como Uber o Cabify puede variar dependiendo de la ciudad._
 
