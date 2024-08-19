@@ -216,7 +216,7 @@ __Where to eat?__
 <div style="margin-top: 10px;"></div>
 
 Is there a song you’d like to hear at our wedding? <br />
-Click [**here**](https://open.spotify.com/playlist/5520URYIoxO4rIzITUCW9J?si=b51f42e200e64620&pt=747e521f5224f8a9cee83a9ad594cf73) to join the playlist and add any songs you want!
+Click [**here**](https://open.spotify.com/playlist/5520URYIoxO4rIzITUCW9J?si=ab4bdd9ab443445f&pt=ce94ec5a46b277667628da1352f8d703) to join the playlist and add any songs you want!
 <div style="margin-top: 15px;"></div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
