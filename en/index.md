@@ -28,7 +28,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 </script>
 
 <p style='text-align: center'>
-Save the Date! On <b>Saturday, November 23rd, 2024</b> at <b>12:30 PM</b>, we will celebrate our marriage at Parroquia Nuestra Señora de Belén in Crevillent, Alicante. 
+Save the Date! On <b>Saturday, November 23rd, 2024</b> at <b>12:00 PM</b>, we will celebrate our marriage at Parroquia Nuestra Señora de Belén in Crevillent, Alicante. 
 </p>
 
 <p style='text-align: center'>
@@ -59,7 +59,7 @@ Please confirm your attendance and provide other important details by October 31
 # Planning of the Day
 <div style="margin-top: 10px;"></div>
 
-The ceremony will take place at Parroquia Nuestra Señora de Belén in Crevillente (Alicante) at 12:30 PM. The celebration will continue at Finca Los Pinos in Orihuela (Alicante).
+The ceremony will take place at Parroquia Nuestra Señora de Belén in Crevillente (Alicante) at 12:00 PM. The celebration will continue at Finca Los Pinos in Orihuela (Alicante).
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
