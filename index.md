@@ -28,7 +28,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 </script>
 
 <p style='text-align: center'>
-¡Apunta! El <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:30h</b>, celebramos nuestra boda en la <b>Parroquia Nuestra Señora de Belén</b> en Crevillente, Alicante.
+¡Apunta! El <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:00h</b>, celebramos nuestra boda en la <b>Parroquia Nuestra Señora de Belén</b> en Crevillente, Alicante.
 </p>
 
 <p style='text-align: center'>
@@ -60,7 +60,7 @@ Por favor, confirma tu asistencia y otros detalles importantes antes del **31 de
 # Detalles del Día
 <div style="margin-top: 10px;"></div>
 
-Te esperamos a las 12:30h en la Parroquia Nuestra Señora de Belén de Crevillente (Alicante). Luego seguiremos la fiesta hasta bien entrada la noche en la Finca Los Pinos de Orihuela (Alicante).  
+Te esperamos a las 12:00h en la Parroquia Nuestra Señora de Belén de Crevillente (Alicante). Luego seguiremos la fiesta hasta bien entrada la noche en la Finca Los Pinos de Orihuela (Alicante).  
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
