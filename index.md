@@ -79,7 +79,7 @@ Te esperamos a las 12:00h en la Parroquia Nuestra Señora de Belén de Crevillen
 
 ##### 🚎 Autobuses
 
-¡Recuerda reservar tu plaza en el formulario de confirmación si quieres dejarte el coche en casa! Pronto daremos más detalles sobre los puntnos de salida/llegada y los horarios.
+¡Recuerda reservar tu plaza en el formulario de confirmación si quieres dejarte el coche en casa! Pronto daremos más detalles sobre los puntos de salida/llegada y los horarios.
 
 <!-- Ida:
 <div style="margin-top: -15px;"></div>
@@ -154,14 +154,12 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
     <ul style="margin-left: -5px;"> <!-- Adjust the margin-left value as needed -->
       <!-- <li>A X minutos andando del punto de recogida y llegada.</li> -->
       <!-- <li>Bien comunicado con Murcia centro con el tranvía.</li> -->
-      <li>Reserva: (PREGUNTAR A PILAR) </li>
     </ul>
   </li>
   <li><strong><a href="https://www.marriott.com/es/hotels/mjvmu-ac-hotel-murcia/overview/">AC Hotel Murcia</a></strong>: 
     <ul style="margin-left: -5px;"> <!-- Adjust the margin-left value as needed -->
       <!-- <li>A X minutos andando del punto de recogida y llegada.</li> -->
       <!-- <li>Ambos bien comunicados con Murcia centro con el tranvía.</li> -->
-      <li>Reserva: (PREGUNTAR A PILAR) </li>
     </ul>
   </li>
 </ul>
