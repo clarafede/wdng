@@ -121,9 +121,9 @@ Unfortunately, there are not many accommodation options close to the ceremony an
 <ul>
   <li><strong><a href="https://www.melia.com/es/hoteles/espana/elche/hotel-elche-centro-by-melia">Hotel Elche Centro</a></strong>
     <ul style="margin-left: -5px;">
-      <!-- <li>A 6 minutos andando del punto de recogida y llegada.</li> -->
-      <li>Booking: (PREGUNTAR A PILAR) </li>
-      <!-- <li>Precio estimado: </li> -->
+      <li>Special rates (Nov. 22-24): Double room €100/night, single room €90/night, breakfast €7/person.</li>
+      <li>A direct booking link will be available in September.</li>
+      <li>Alternative: <a href="tel:+34966610033">Call</a> or <a href="mailto:hotel.elche.centro@melia.com">email</a>, mentioning "Boda Clara y Fede".</li>
     </ul>
   </li>
 </ul>
@@ -136,7 +136,7 @@ Unfortunately, there are not many accommodation options close to the ceremony an
     <ul style="margin-left: -5px;"> <!-- Adjust the margin-left value as needed -->
     </ul>
   </li>
-  <li><strong><a href="https://www.marriott.com/es/hotels/mjvmu-ac-hotel-murcia/overview/">AC Hotel Murcia</a></strong>: 
+  <li><strong><a href="https://www.marriott.com/es/hotels/mjvmu-ac-hotel-murcia/overview/">AC Hotel Murcia</a></strong>
     <ul style="margin-left: -5px;"> <!-- Adjust the margin-left value as needed -->
     </ul>
   </li>

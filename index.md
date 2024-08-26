@@ -139,9 +139,9 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
 <ul>
   <li><strong><a href="https://www.melia.com/es/hoteles/espana/elche/hotel-elche-centro-by-melia">Hotel Elche Centro</a></strong>
     <ul style="margin-left: -5px;">
-      <!-- <li>A 6 minutos andando del punto de recogida y llegada.</li> -->
-      <li>Reserva: (PREGUNTAR A PILAR) </li>
-      <!-- <li>Precio estimado: </li> -->
+      <li>Precios especiales (22-24 Nov.): Doble 100 €/noche, individual 90 €/noche, desayuno 7 €/persona.</li>
+      <li>Enlace para reserva directa disponible en Septiembre.</li>
+      <li>Alternativa: <a href="tel:+34966610033">Llamar</a> o <a href="mailto:hotel.elche.centro@melia.com">correo electrónico</a> indicando "Boda Clara y Fede". </li>
     </ul>
   </li>
 </ul>
@@ -156,7 +156,7 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
       <!-- <li>Bien comunicado con Murcia centro con el tranvía.</li> -->
     </ul>
   </li>
-  <li><strong><a href="https://www.marriott.com/es/hotels/mjvmu-ac-hotel-murcia/overview/">AC Hotel Murcia</a></strong>: 
+  <li><strong><a href="https://www.marriott.com/es/hotels/mjvmu-ac-hotel-murcia/overview/">AC Hotel Murcia</a></strong>
     <ul style="margin-left: -5px;"> <!-- Adjust the margin-left value as needed -->
       <!-- <li>A X minutos andando del punto de recogida y llegada.</li> -->
       <!-- <li>Ambos bien comunicados con Murcia centro con el tranvía.</li> -->
