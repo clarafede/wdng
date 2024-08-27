@@ -111,7 +111,7 @@ Si decides coger el coche, todo está muy bien conectado a través de la autoví
 <div style="margin-top: 15px;"></div>
 <h3><u>El tiempo</u></h3>
 
-¡Échale un ojo a la predicción meterorologica! La mayoría del tiempo estaremos en espacios interiores, pero si el tiempo lo permite, parte de la celebración será en exterior.
+¡Échale un ojo a la predicción meteorológica! La mayoría del tiempo estaremos en espacios interiores, pero si el tiempo lo permite, parte de la celebración será en exterior.
 <div style="margin-top: 15px;"></div>
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/38d24n0d81/crevillent/" data-label_1="CREVILLENTE" data-theme="pure" >CREVILLENTE WEATHER</a>
