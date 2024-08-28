@@ -3,7 +3,7 @@
 
 .bold-simulated, h1 { font-family: 'Hello Branch Regular', serif; text-shadow: 0.2px 0 0 currentColor, -0.2px 0 0 currentColor, 0 0.2px 0 currentColor, -0.2px 0 currentColor, 0.2px 0.2px 0 currentColor, -0.4px 0 currentColor, 0px 0 currentColor, -0.2px 0.2px 0 currentColor; }
 
-h1 { text-align: center; margin: 0 auto; white-space: nowrap; font-size: 95%; }
+h1 { white-space: nowrap; }
 
 .bold2-simulated, h2, h3, h4, h5, h6 { font-family: 'Hello Branch Regular', serif; text-shadow: 0.05px 0 0 currentColor, -0.05px 0 0 currentColor, 0 0.05px 0 currentColor, -0.05px 0 currentColor, 0.05px 0.05px 0 currentColor, -0.1px 0 currentColor, 0px 0 currentColor, -0.05px 0.05px 0 currentColor; }
 
@@ -271,7 +271,7 @@ a:hover, a:active, a:focus { color: #304878; text-decoration: none; }
 
 :root { font-size: 75%; }
 
-@media screen and (min-width: 43.4375em) { :root { font-size: 80%; } }
+@media screen and (min-width: 43.4375em) { :root { font-size: 77%; } }
 
 @media screen and (min-width: 50em) { :root { font-size: 90%; } }
 
