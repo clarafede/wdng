@@ -51,14 +51,10 @@ $shadow-offset: 0.2px;
 
 h1 {
   @extend .bold-simulated;
+  text-align: center;
+  margin: 0 auto;
+  white-space: nowrap;
 }
-
-// h1 {
-//   max-width: none;
-// }
-// h1 {
-//  white-space: nowrap;
-// }
 
 // Simulate a bolder appearance using text-shadow
 $shadow-offset: 0.05px;
