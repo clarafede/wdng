@@ -3,7 +3,7 @@
 
 .bold-simulated, h1 { font-family: 'Hello Branch Regular', serif; text-shadow: 0.2px 0 0 currentColor, -0.2px 0 0 currentColor, 0 0.2px 0 currentColor, -0.2px 0 currentColor, 0.2px 0.2px 0 currentColor, -0.4px 0 currentColor, 0px 0 currentColor, -0.2px 0.2px 0 currentColor; }
 
-h1 { text-align: center; margin: 0 auto; white-space: nowrap; }
+h1 { text-align: center; margin: 0 auto; white-space: nowrap; font-size: 95%; }
 
 .bold2-simulated, h2, h3, h4, h5, h6 { font-family: 'Hello Branch Regular', serif; text-shadow: 0.05px 0 0 currentColor, -0.05px 0 0 currentColor, 0 0.05px 0 currentColor, -0.05px 0 currentColor, 0.05px 0.05px 0 currentColor, -0.1px 0 currentColor, 0px 0 currentColor, -0.05px 0.05px 0 currentColor; }
 
