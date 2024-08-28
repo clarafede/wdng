@@ -51,10 +51,13 @@ $shadow-offset: 0.2px;
 
 h1 {
   @extend .bold-simulated;
-  text-align: center;
-  margin: 0 auto;
+}
+
+// h1 {
+//   max-width: none;
+// }
+h1 {
   white-space: nowrap;
-  font-size: 95%;
 }
 
 // Simulate a bolder appearance using text-shadow
@@ -100,7 +103,7 @@ div[style*="display: flex"] th {
 
   @include breakpoint(break-1) {
     // 695px   ~ Small tablet up
-    font-size: 80%;
+    font-size: 77%;
   }
 
   @include breakpoint(break-2) {
