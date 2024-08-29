@@ -49,15 +49,20 @@ $shadow-offset: 0.2px;
    -$shadow-offset $shadow-offset 0 currentColor;
 }
 
-h1 {
-  @extend .bold-simulated;
+/* Ensure consistent box sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
-// h1 {
-//   max-width: none;
-// }
 h1 {
-  white-space: nowrap;
+  @extend .bold-simulated;
+  max-width: 100%;          /* Prevents text from exceeding the container's width */
+  white-space: nowrap;      /* Prevents text from wrapping */
+  display: flex;            /* Use Flexbox for alignment */
+  justify-content: center;  /* Center-aligns the text */
+  align-items: center;      /* Center-aligns the text vertically */
 }
 
 // Simulate a bolder appearance using text-shadow
@@ -103,7 +108,7 @@ div[style*="display: flex"] th {
 
   @include breakpoint(break-1) {
     // 695px   ~ Small tablet up
-    font-size: 77%;
+    font-size: 80%;
   }
 
   @include breakpoint(break-2) {
