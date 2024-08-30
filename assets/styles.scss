@@ -59,14 +59,12 @@ $shadow-offset: 0.2px;
 h1 {
   @extend .bold-simulated;
   max-width: 100%;          /* Prevents text from exceeding the container's width */
+  white-space: normal;      /* Allows text to wrap */
   display: flex;            /* Use Flexbox for alignment */
   justify-content: center;  /* Center-aligns the text */
   align-items: center;      /* Center-aligns the text vertically */
-  font-size: 95%;           /* Sets the font size to 95% of the fixed size */
-  word-wrap: break-word;    /* Ensures long words break appropriately */
-  padding: 0;               /* Removes any padding */
-  margin: 0;                /* Removes any margin */
-  text-align: center;       /* Center-aligns the text */
+  word-break: break-word;   /* Breaks long words to fit within the container */
+  overflow-wrap: break-word; /* Ensures long words break to fit within the container */
 }
 
 // Simulate a bolder appearance using text-shadow
