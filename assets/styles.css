@@ -6,7 +6,7 @@
 /* Ensure consistent box sizing */
 *, *::before, *::after { box-sizing: border-box; }
 
-h1 { max-width: 100%; /* Prevents text from exceeding the container's width */ display: flex; /* Use Flexbox for alignment */ justify-content: center; /* Center-aligns the text */ align-items: center; /* Center-aligns the text vertically */ font-size: 95%; /* Sets the font size to 95% of the fixed size */ word-break: break-word; /* Ensures long words break appropriately */ padding: 0; /* Removes any padding */ margin: 0; /* Removes any margin */ text-align: center; /* Center-aligns the text */ }
+h1 { max-width: 100%; /* Prevents text from exceeding the container's width */ display: flex; /* Use Flexbox for alignment */ justify-content: center; /* Center-aligns the text */ align-items: center; /* Center-aligns the text vertically */ font-size: 95%; /* Sets the font size to 95% of the fixed size */ word-wrap: break-word; /* Ensures long words break appropriately */ padding: 0; /* Removes any padding */ margin: 0; /* Removes any margin */ text-align: center; /* Center-aligns the text */ }
 
 .bold2-simulated, h2, h3, h4, h5, h6 { font-family: 'Hello Branch Regular', serif; text-shadow: 0.05px 0 0 currentColor, -0.05px 0 0 currentColor, 0 0.05px 0 currentColor, -0.05px 0 currentColor, 0.05px 0.05px 0 currentColor, -0.1px 0 currentColor, 0px 0 currentColor, -0.05px 0.05px 0 currentColor; }
 
