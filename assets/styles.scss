@@ -63,7 +63,7 @@ h1 {
   justify-content: center;  /* Center-aligns the text */
   align-items: center;      /* Center-aligns the text vertically */
   font-size: 95%;           /* Sets the font size to 95% of the fixed size */
-  word-break: break-word;   /* Ensures long words break appropriately */
+  word-wrap: break-word;    /* Ensures long words break appropriately */
   padding: 0;               /* Removes any padding */
   margin: 0;                /* Removes any margin */
   text-align: center;       /* Center-aligns the text */
