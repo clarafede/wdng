@@ -6,6 +6,8 @@
 /* Ensure consistent box sizing */
 *, *::before, *::after { box-sizing: border-box; }
 
+h1 { max-width: 100%; /* Prevents text from exceeding the container's width */ display: flex; /* Use Flexbox for alignment */ justify-content: center; /* Center-aligns the text */ align-items: center; /* Center-aligns the text vertically */ }
+
 .bold2-simulated, h2, h3, h4, h5, h6 { font-family: 'Hello Branch Regular', serif; text-shadow: 0.05px 0 0 currentColor, -0.05px 0 0 currentColor, 0 0.05px 0 currentColor, -0.05px 0 currentColor, 0.05px 0.05px 0 currentColor, -0.1px 0 currentColor, 0px 0 currentColor, -0.05px 0.05px 0 currentColor; }
 
 div[style*="display: flex"] *, div[style*="display: flex"] table, div[style*="display: flex"] td, div[style*="display: flex"] tr, div[style*="display: flex"] th { font-family: 'Fira Sans', sans-serif !important; }
