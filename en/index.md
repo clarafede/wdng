@@ -119,6 +119,13 @@ Unfortunately, there are not many accommodation options close to the ceremony an
 <h3><u>Elche</u></h3>
 
 <ul>
+  <li><strong><a href="https://www.booking.com/hotel/es/ibis-alicante-elche.es.html">Ibis Elche</a></strong>
+    <!-- <ul style="margin-left: -5px;">
+      <li>Precios especiales (22-24 Nov.): Doble 100 €/noche, individual 90 €/noche, desayuno 7 €/persona.</li>
+      <li>Enlace para reserva directa disponible en Septiembre.</li>
+      <li>Alternativa: <a href="tel:+34966610033">Llamar</a> o <a href="mailto:hotel.elche.centro@melia.com">correo electrónico</a> indicando "Boda Clara y Fede". </li>
+    </ul> -->
+  </li>
   <li><strong><a href="https://www.melia.com/es/hoteles/espana/elche/hotel-elche-centro-by-melia">Hotel Elche Centro</a></strong>
     <ul style="margin-left: -5px;">
       <li>Special rates (Nov. 22-24): Double room €100/night, single room €90/night, breakfast €7/person.</li>
