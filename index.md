@@ -152,6 +152,11 @@ Desafortunadamente, no hay muchas opciones de alojamiento cercanas a los lugares
       <!-- <li>Alternativa: <a href="tel:+34966610033">Llamar</a> o <a href="mailto:hotel.elche.centro@melia.com">correo electrónico</a> indicando "Boda Clara y Fede". </li> -->
     </ul>
   </li>
+  <li><strong><a href="https://www.porthotels.es/port-jardin-milenio.html">Jardín Milenio</a></strong>
+    <ul style="margin-left: -5px;">
+      <li>Reserva con descuento a través del móvil y haciéndote "PORT FRIEND".</li>
+    </ul>
+  </li>
   <li><strong><a href="https://es-l.airbnb.com/s/Elche--Spain/homes?refinement_paths%5B%5D=%2Fhomes&place_id=ChIJo1fOTiy0Yw0R3STna3zepdk&checkin=2024-11-22&checkout=2024-11-24&adults=1&tab_id=home_tab&query=Elche%2C%20Spain&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-10-01&monthly_length=3&monthly_end_date=2025-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&ne_lat=38.2811008918798&ne_lng=-0.6885145444708769&sw_lat=38.25054164426327&sw_lng=-0.7155479459284493&zoom=14.544730332546603&zoom_level=14.544730332546603&search_by_map=true&search_type=user_map_move&room_types%5B%5D=Entire%20home%2Fapt">Airbnb</a></strong>
   </li>
 </ul>
