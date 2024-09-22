@@ -1,8 +1,8 @@
-const version = '20240916114333';
+const version = '20240922113314';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/wdng/","/wdng/en/","/wdng/photos/","/wdng/assets/styles.css","/wdng/manifest.json","/wdng/assets/search.json","/wdng/redirects.json","/wdng/sitemap.xml","/wdng/robots.txt","/wdng/feed.xml","/wdng/assets/styles.css.map","", "/wdng/assets/default-offline-image.png", "/wdng/assets/scripts/fetch.js"
+  return ["/wdng/en/","/wdng/","/wdng/photos/","/wdng/assets/styles.css","/wdng/manifest.json","/wdng/assets/search.json","/wdng/redirects.json","/wdng/sitemap.xml","/wdng/robots.txt","/wdng/feed.xml","/wdng/assets/styles.css.map","", "/wdng/assets/default-offline-image.png", "/wdng/assets/scripts/fetch.js"
   ]
 }
 
