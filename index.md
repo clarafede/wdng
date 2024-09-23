@@ -271,6 +271,20 @@ __¿Dónde comer?__
 <div style="text-align: right;"><h5 style="font-weight: 500;">Otros 🪩</h5></div>
 <div style="margin-top: 5px;"></div>
 
+# Fotos
+<div style="margin-top: 10px;"></div>
+
+Sube tus fotos al álbum pinchando [**aquí**](https://weduploader.com/upload/HtsDR831eMy0UpHW)!
+<div style="margin-top: 15px;"></div>
+
+<iframe src="carousel.html" width="100%" height="650" frameborder="0"></iframe>
+<div style="margin-top: -10px;"></div>
+
+--------------------------
+<div style="margin-top: -35px;"></div>
+<div style="text-align: right;"><h5 style="font-weight: 500;">Otros 🪩</h5></div>
+<div style="margin-top: 5px;"></div>
+
 # Regalos
 <div style="margin-top: 10px;"></div>
 
