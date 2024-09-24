@@ -266,7 +266,7 @@ __¿Dónde comer?__
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
---------------------------
+<!-- --------------------------
 <div style="margin-top: -35px;"></div>
 <div style="text-align: right;"><h5 style="font-weight: 500;">Otros 🪩</h5></div>
 <div style="margin-top: 5px;"></div>
@@ -278,7 +278,7 @@ Sube tus fotos al álbum pinchando [**aquí**](https://weduploader.com/upload/Rh
 <div style="margin-top: 15px;"></div>
 
 <iframe src="carousel.html" width="100%" height="650" frameborder="0"></iframe>
-<div style="margin-top: -10px;"></div>
+<div style="margin-top: -10px;"></div> -->
 
 --------------------------
 <div style="margin-top: -35px;"></div>
