@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Google Drive Carousel</title>
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <style>
+        .swiper-container {
+            width: 100%;
+            height: 600px;
+            touch-action: none; /* Disable touch actions */
+            overflow: hidden; /* Hide overflow to prevent horizontal scroll */
+        }
+        .swiper-slide {
+            text-align: center;
+            font-size: 18px;
+            background: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .counter {
+            text-align: center;
+            margin-top: 10px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="swiper-container">
+        <div class="swiper-wrapper" id="swiper-wrapper">
+            <!-- Slides will be inserted here -->
+        </div>
+        <!-- Add Navigation -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+    <div class="counter" id="counter">1 / 1</div>
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+        // Replace with your Google Drive API key and ID
+        const API_KEY = 'YOUR_GOOGLE_API_KEY';
+        const FOLDER_ID = '1BzjC9nAKh77UlLRrp5YQubZ9PRcATeAm';
+
+        async function fetchFiles() {
+            const response = await fetch(`https://www.googleapis.com/drive/v3/files?q='${FOLDER_ID}'+in+parents&key=${API_KEY}`);
+            const data = await response.json();
+            return data.files;
+        }
+
+        async function initCarousel() {
+            const files = await fetchFiles();
+            const swiperWrapper = document.getElementById('swiper-wrapper');
+            const counter = document.getElementById('counter');
+
+            files.forEach(file => {
+                const slide = document.createElement('div');
+                slide.className = 'swiper-slide';
+                slide.innerHTML = `<iframe src="https://drive.google.com/file/d/${file.id}/preview" width="100%" height="100%" frameborder="0"></iframe>`;
+                swiperWrapper.appendChild(slide);
+            });
+
+            const swiper = new Swiper('.swiper-container', {
+                navigation: {
+                    nextEl: '.swiper-button-next',
+                    prevEl: '.swiper-button-prev',
+                },
+                autoplay: {
+                    delay: 3000,
+                    disableOnInteraction: false,
+                },
+                allowTouchMove: false, // Disable swiping
+                on: {
+                    slideChange: function () {
+                        const currentSlide = swiper.realIndex + 1;
+                        const totalSlides = swiper.slides.length;
+                        counter.textContent = `${currentSlide} / ${totalSlides}`;
+                    }
+                }
+            });
+
+            // Initialize the counter
+            counter.textContent = `1 / ${files.length}`;
+        }
+
+        initCarousel();
+    </script>
+</body>
+</html>
