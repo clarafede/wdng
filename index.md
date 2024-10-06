@@ -261,7 +261,7 @@ __¿Dónde comer?__
 <div style="margin-top: 10px;"></div>
 
 ¿Hay alguna canción que te gustarīa que sonase en nuestra boda? <br />
-¡Únete a la playlist pulsando [**aquí**](https://open.spotify.com/playlist/5520URYIoxO4rIzITUCW9J?si=84efe97a8fd54e7e&pt=37f6693527865a90f47cf5ff1fa0a327) y añade las que quieras!
+¡Únete a la playlist pulsando [**aquí**](https://open.spotify.com/playlist/5520URYIoxO4rIzITUCW9J?si=7dc2d044ede146fc&pt=4e994b2c7a8a7ebf560d010acd13f82e) y añade las que quieras!
 <div style="margin-top: 15px;"></div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
