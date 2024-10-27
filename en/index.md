@@ -78,7 +78,21 @@ The ceremony will take place at Parroquia Nuestra Señora de Belén in Crevillen
 
 ##### 🚎 Buses
 
-Remember to reserve your spot on the confirmation form if you want to leave your car at home! We will provide more details soon about the departure/arrival points and schedules.
+<!-- Remember to reserve your spot on the confirmation form if you want to leave your car at home! We will provide more details soon about the departure/arrival points and schedules. -->
+
+The **current** bus schedule (subject to change) is as follows:
+
+Outbound:
+<div style="margin-top: -15px;"></div>
+- __Elche → Crevillente__: Departure at 11:00 AM from Museu Arqueològic i d'Història d'Elx
+- __Murcia → Crevillente__: Departure at 10:45 AM from Plaza Circular
+
+<div style="margin-top: -15px;"></div>
+Return:
+<div style="margin-top: -15px;"></div>
+- __Finca Los Pinos → Crevillente__: Departure at 9:00 PM
+- __Finca Los Pinos → Crevillente → Elche__: Departure at 1:00 AM
+- __Finca Los Pinos → Murcia__: Departure at 1:00 AM
 
 ##### 🚕 Taxi 
 

@@ -79,18 +79,21 @@ Te esperamos a las 12:00h en la Parroquia Nuestra Señora de Belén de Crevillen
 
 ##### 🚎 Autobuses
 
-¡Recuerda reservar tu plaza en el formulario de confirmación si quieres dejarte el coche en casa! Pronto daremos más detalles sobre los puntos de salida/llegada y los horarios.
+<!-- ¡Recuerda reservar tu plaza en el formulario de confirmación si quieres dejarte el coche en casa! Pronto daremos más detalles sobre los puntos de salida/llegada y los horarios. -->
 
-<!-- Ida:
+Los horarios **actuales** (están sujetos a cambio) de los autobuses son los siguientes:
+
+Ida:
 <div style="margin-top: -15px;"></div>
-- __Elche → Crevillente__: Salida a las X en X
-- __Murcia → Crevillente__: Salida a las X en X
+- __Elche → Crevillente__: Salida a las 11:00h en Museu Arqueològic i d'Història d'Elx
+- __Murcia → Crevillente__: Salida a las 10:45h en Plaza Circular
 
 <div style="margin-top: -15px;"></div>
 Vuelta:
 <div style="margin-top: -15px;"></div>
-- __Orihuela → Crevillente → Elche__: Salida a las X en X
-- __Orihuela → Murcia__: Salida a las X en X -->
+- __Finca Los Pinos → Crevillente__: Salida a las 21:00h
+- __Finca Los Pinos → Crevillente → Elche__: Salida a las 01:00h
+- __Finca Los Pinos → Murcia__: Salida a las 01:00h
 
 ##### 🚕 Taxi 
 
