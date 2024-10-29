@@ -95,6 +95,12 @@ Vuelta:
 - __Finca Los Pinos → Crevillente → Elche__: Salida a las 01:00h
 - __Finca Los Pinos → Murcia__: Salida a las 01:00h
 
+<div style="margin-top: -15px;"></div>
+Contacto de emergencia:
+<div style="margin-top: -15px;"></div>
+- __Murcia__: <a href="tel:+34968248800">+34 693778090</a> (Jesús, hermano de Fede)
+- __Elche__: <a href="tel:+34968248800">+34 677751663</a> (Martín, amigo)
+
 ##### 🚕 Taxi 
 
 Si necesitas un taxi, puedes contactar con los siguientes números:
