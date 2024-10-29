@@ -97,8 +97,8 @@ Return:
 <div style="margin-top: -15px;"></div>
 Emergency contact:
 <div style="margin-top: -15px;"></div>
-- __Murcia__: <a href="tel:+34968248800">+34 693778090</a> (Jesús, Fede's brother)
-- __Elche__: <a href="tel:+34968248800">+34 677751663</a> (Martín, friend)
+- __Murcia__: <a href="tel:+34693778090">+34 693778090</a> (Jesús, Fede's brother)
+- __Elche__: <a href="tel:+34677751663">+34 677751663</a> (Martín, friend)
 
 ##### 🚕 Taxi 
 
