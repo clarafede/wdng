@@ -35,21 +35,21 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 <b>¡Nos encantaría que vinieras a celebrar este día tan especial con nosotros!</b>
 </p>
 
-<div id="confirmacion"></div>
+<!-- <div id="confirmacion"></div>
 --------------------------
 <div style="margin-top: -35px;"></div>
 <div style="text-align: right;"><h5 style="font-weight: 500;">✏️</h5></div>
 
 <div style="margin-top: 0px;"></div>
 # Confirmación
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 10px;"></div> -->
 
 <!-- ¡Tu presencia es muy importante para nosotros!  -->
 
-Por favor, confirma tu asistencia y otros detalles importantes antes del **31 de Octubre de 2024** rellenando el siguiente formulario (una respuesta por persona):
-<div style="margin-top: 15px;"></div>
+<!-- Por favor, confirma tu asistencia y otros detalles importantes antes del **31 de Octubre de 2024** rellenando el siguiente formulario (una respuesta por persona):
+<div style="margin-top: 15px;"></div> -->
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe> -->
 
 <div id="detalles"></div>
 --------------------------
@@ -270,7 +270,7 @@ __¿Dónde comer?__
 <div style="margin-top: 10px;"></div>
 
 ¿Hay alguna canción que te gustarīa que sonase en nuestra boda? <br />
-¡Únete a la playlist pulsando [**aquí**](https://open.spotify.com/playlist/5520URYIoxO4rIzITUCW9J?si=1896f7a627b846c7&pt=152b13a2ce7144169f86dc47b10ae61c) y añade las que quieras!
+¡Únete a la playlist pulsando [**aquí**](https://open.spotify.com/playlist/5520URYIoxO4rIzITUCW9J?si=6927fa7fc14c4260&pt=55ae9242957e7cb3cbba700e899a321f) y añade las que quieras!
 <div style="margin-top: 15px;"></div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

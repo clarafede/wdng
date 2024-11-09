@@ -35,7 +35,7 @@ Save the Date! On <b>Saturday, November 23rd, 2024</b> at <b>12:00 PM</b>, we wi
 <b>We would love to celebrate this special day with you!</b>
 </p>
 
-<div id="rsvp"></div>
+<!-- <div id="rsvp"></div>
 --------------------------
 <div style="margin-top: -35px;"></div>
 <div style="text-align: right;"><h5 style="font-weight: 500;">✏️</h5></div>
@@ -44,11 +44,11 @@ Save the Date! On <b>Saturday, November 23rd, 2024</b> at <b>12:00 PM</b>, we wi
 # RSVP
 <div style="margin-top: 10px;"></div>
 
-Please confirm your attendance and provide other important details by October 31st by filling out the following questionnaire (one response per person):
+Please confirm your attendance and provide other important details by October 31st by filling out the following questionnaire (one response per person): -->
 
-<div style="margin-top: 15px;"></div>
+<!-- <div style="margin-top: 15px;"></div> -->
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScn_mITxiso-J6NSb7TVs6DcicrjqXkIYAKEqnf-_0gGAkOCg/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScn_mITxiso-J6NSb7TVs6DcicrjqXkIYAKEqnf-_0gGAkOCg/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
 <div id="planning"></div>
 --------------------------
@@ -255,7 +255,7 @@ __Where to eat?__
 <div style="margin-top: 10px;"></div>
 
 Is there a song you’d like to hear at our wedding? <br />
-Click [**here**](https://open.spotify.com/playlist/5520URYIoxO4rIzITUCW9J?si=1896f7a627b846c7&pt=152b13a2ce7144169f86dc47b10ae61c) to join the playlist and add any songs you want!
+Click [**here**](https://open.spotify.com/playlist/5520URYIoxO4rIzITUCW9J?si=6927fa7fc14c4260&pt=55ae9242957e7cb3cbba700e899a321f) to join the playlist and add any songs you want!
 <div style="margin-top: 15px;"></div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
