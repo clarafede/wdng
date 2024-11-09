@@ -50,6 +50,20 @@ Please confirm your attendance and provide other important details by October 31
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScn_mITxiso-J6NSb7TVs6DcicrjqXkIYAKEqnf-_0gGAkOCg/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
+<!-- --------------------------
+<div style="margin-top: -35px;"></div>
+<div style="text-align: right;"><h5 style="font-weight: 500;">📸</h5></div>
+<div style="margin-top: 5px;"></div>
+
+# Memories
+<div style="margin-top: 10px;"></div>
+
+Do you have any special photos related to the wedding that you’d like to share? Upload them to the album by clicking [**here**](https://weduploader.com/upload/RhUqHSHmW01Kfcio) and share them with everyone!
+<div style="margin-top: 15px;"></div>
+
+<iframe src="../carousel.html" width="100%" height="650" frameborder="0"></iframe>
+<div style="margin-top: -10px;"></div> -->
+
 <div id="planning"></div>
 --------------------------
 <div style="margin-top: -35px;"></div>

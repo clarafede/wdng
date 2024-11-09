@@ -51,6 +51,20 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe> -->
 
+<!-- --------------------------
+<div style="margin-top: -35px;"></div>
+<div style="text-align: right;"><h5 style="font-weight: 500;">📸</h5></div>
+<div style="margin-top: 5px;"></div>
+
+# Fotos
+<div style="margin-top: 10px;"></div>
+
+¿Tienes alguna foto especial relacionada con la boda que quieras compartir? [**Súbela al álbum**](https://weduploader.com/upload/RhUqHSHmW01Kfcio) y compártela con todos nosotros!
+<div style="margin-top: 15px;"></div>
+
+<iframe src="carousel.html" width="100%" height="650" frameborder="0"></iframe>
+<div style="margin-top: -10px;"></div> -->
+
 <div id="detalles"></div>
 --------------------------
 <div style="margin-top: -35px;"></div>
@@ -274,20 +288,6 @@ __¿Dónde comer?__
 <div style="margin-top: 15px;"></div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5520URYIoxO4rIzITUCW9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<!-- --------------------------
-<div style="margin-top: -35px;"></div>
-<div style="text-align: right;"><h5 style="font-weight: 500;">Otros 🪩</h5></div>
-<div style="margin-top: 5px;"></div>
-
-# Fotos
-<div style="margin-top: 10px;"></div>
-
-Sube tus fotos al álbum pinchando [**aquí**](https://weduploader.com/upload/RhUqHSHmW01Kfcio)!
-<div style="margin-top: 15px;"></div>
-
-<iframe src="carousel.html" width="100%" height="650" frameborder="0"></iframe>
-<div style="margin-top: -10px;"></div> -->
 
 --------------------------
 <div style="margin-top: -35px;"></div>
