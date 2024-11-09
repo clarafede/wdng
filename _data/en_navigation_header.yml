@@ -1,6 +1,6 @@
 navigation_header:
-  - title: "RSVP"
-    url: /en/#rsvp
+  # - title: "RSVP"
+  #   url: /en/#rsvp
   - title: "Planning of the Day"
     url: /en/#planning
   - title: "The trip"

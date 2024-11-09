@@ -1,6 +1,6 @@
 navigation_header:
-  - title: Confirmación
-    url: /#confirmacion
+  # - title: Confirmación
+  #   url: /#confirmacion
   - title: Detalles del Día
     url: /#detalles
   - title: Plan de viaje
