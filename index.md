@@ -100,7 +100,7 @@ Los horarios **actuales** (están sujetos a cambio) de los autobuses son los sig
 Ida:
 <div style="margin-top: -15px;"></div>
 - __Elche → Crevillente__: Salida a las 11:00h en Museu Arqueològic i d'Història d'Elx
-- __Murcia → Crevillente__: Salida a las 10:45h en Plaza Circular
+- __Murcia → Crevillente__: Salida a las 10:30h en Plaza Circular
 
 <div style="margin-top: -15px;"></div>
 Vuelta:
