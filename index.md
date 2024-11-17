@@ -17,7 +17,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 });
 </script>
 
-<div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 330px;">
+<!-- <div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 330px;">
   <p style="margin: 0; font-size: 14px;">Si algo no funciona, escríbele a Fede 😊</p>
   <button onclick="document.getElementById('feedbackDialog').style.display='none'" style="border: none; background-color: transparent; color: #000000; font-size: 24px; cursor: pointer;">&times;</button>
 </div>
@@ -25,7 +25,17 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
   setTimeout(function() {
     document.getElementById('feedbackDialog').style.display = 'none';
   }, 2500);
-</script>
+</script> -->
+
+<div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 330px;">
+  <p style="margin: 0; font-size: 14px;">
+  <strong><u>AUTOBUSES</u></strong><br>
+  <strong>Salida Murcia</strong>: 10.30h (Plaza Circular)<br>
+  <strong>Salida Elche</strong>: 11.00h (MAHE)<br>
+  Más información <a href="#detalles">aquí</a>.
+  </p>
+  <button onclick="document.getElementById('feedbackDialog').style.display='none'" style="border: none; background-color: transparent; color: #000000; font-size: 24px; cursor: pointer;">&times;</button>
+</div>
 
 <p style='text-align: center'>
 ¡Apunta! El <b>Sábado 23 de Noviembre del 2024</b> a las <b>12:00h</b>, celebramos nuestra boda en la <b>Parroquia Nuestra Señora de Belén</b> en Crevillente, Alicante.
@@ -51,8 +61,8 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Lh4Xv0yae3Ni2sVE5vSpzXrnqaIZqFpuXHgnXUnup9AcqQ/viewform?embedded=true" width="100%" height="490" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe> -->
 
-<!-- --------------------------
-<div style="margin-top: -35px;"></div>
+--------------------------
+<div style="margin-top: -35px;"></div> 
 <div style="text-align: right;"><h5 style="font-weight: 500;">📸</h5></div>
 <div style="margin-top: 5px;"></div>
 
@@ -63,7 +73,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 <div style="margin-top: 15px;"></div>
 
 <iframe src="carousel.html" width="100%" height="650" frameborder="0"></iframe>
-<div style="margin-top: -10px;"></div> -->
+<div style="margin-top: -10px;"></div>
 
 <div id="detalles"></div>
 --------------------------

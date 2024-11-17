@@ -17,7 +17,7 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
 });
 </script>
 
-<div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 350px;">
+<!-- <div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 350px;">
   <p style="margin: 0; font-size: 14px;">If something isn’t working, contact Fede! 😊</p>
   <button onclick="document.getElementById('feedbackDialog').style.display='none'" style="border: none; background-color: transparent; color: #000000; font-size: 24px; cursor: pointer;">&times;</button>
 </div>
@@ -25,7 +25,17 @@ document.getElementById('scrollToTopButton').addEventListener('click', function(
   setTimeout(function() {
     document.getElementById('feedbackDialog').style.display = 'none';
   }, 2500);
-</script>
+</script> -->
+
+<div id="feedbackDialog" style="position: fixed; top: 60%; left: 0%; background-color: #ffffff; color: #000000; border-top-right-radius: 10px; border-bottom-right-radius: 10px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); z-index: 1000; display: flex; justify-content: space-between; align-items: center; width: 330px;">
+  <p style="margin: 0; font-size: 14px;">
+  <strong><u>BUS DEPARTURES</u></strong><br>
+  <strong>From Murcia</strong>: 10:30 AM (Plaza Circular)<br>
+  <strong>From Elche</strong>: 11:00 AM (MAHE)<br>
+  More information <a href="#planning">here</a>.
+  </p>
+  <button onclick="document.getElementById('feedbackDialog').style.display='none'" style="border: none; background-color: transparent; color: #000000; font-size: 24px; cursor: pointer;">&times;</button>
+</div>
 
 <p style='text-align: center'>
 Save the Date! On <b>Saturday, November 23rd, 2024</b> at <b>12:00 PM</b>, we will celebrate our marriage at Parroquia Nuestra Señora de Belén in Crevillent, Alicante. 
@@ -63,6 +73,20 @@ Do you have any special photos related to the wedding that you’d like to share
 
 <iframe src="../carousel.html" width="100%" height="650" frameborder="0"></iframe>
 <div style="margin-top: -10px;"></div> -->
+
+--------------------------
+<div style="margin-top: -35px;"></div> 
+<div style="text-align: right;"><h5 style="font-weight: 500;">📸</h5></div>
+<div style="margin-top: 5px;"></div>
+
+# Photos
+<div style="margin-top: 10px;"></div>
+
+Do you have any special photos related to the wedding that you’d like to share? [**Upload them here**](https://weduploader.com/upload/RhUqHSHmW01Kfcio) and share them with everyone!
+<div style="margin-top: 15px;"></div>
+
+<iframe src="../carousel.html" width="100%" height="650" frameborder="0"></iframe>
+<div style="margin-top: -10px;"></div>
 
 <div id="planning"></div>
 --------------------------
